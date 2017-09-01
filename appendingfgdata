@@ -1,0 +1,22 @@
+fgdat = read.csv("https://raw.githubusercontent.com/AustinGratton/592proj/master/fgdat.csv")
+seaperc = read.csv("https://raw.githubusercontent.com/AustinGratton/592proj/master/seasonpercs.csv")
+vec = rep(0,500)
+fgdat= cbind(fgdat,vec)
+fgdat= cbind(fgdat,vec)
+
+OUPB = fgdat[which(as.character(fred.o$`Loan Sequence Number`) == 
+                      levels(fred.p$`Sequence Number`)[as.numeric(num)]),][11]
+
+for (x in 1:dim(fgdat)[1]) {
+    for(y in 1:dim(seaperc[1])){
+      if (as.character(fgdat[x,3]) == as.character(seaperc[y,1])){
+        fgdat[x,7] = seaperc[y,4]
+        fgdat[x,8] = levels(seaperc[,7])[as.numeric(seaperc[,7])][y]
+    }
+  }
+}
+
+namevec = c("ID","H/A","Name","FG Dist.","Good","Blk.","Avg. Dist.","Sea. Avg.")
+colnames(fgdat) = namevec
+write.csv(fgdat,"fgdat.csv")
+dev.off()
