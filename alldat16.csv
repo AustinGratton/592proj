@@ -1,0 +1,917 @@
+"","Month","Date","Team","HomeAway","Opponent","Score","Name","Distance","Made","Location","Dome","SeasonAvg","YearsExp","AverageDist","CareerAvg"
+"1",4,"2017-01-01","HOU","Away","TEN","L 17-24","Nick Novak\novaknic01",26,"Y","TEN","Not Dome",0.854,9,36.78,0.828
+"2",4,"2017-01-01","WAS","Home","NYG","L 10-19","Dustin Hopkins\HopkDu00",32,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"3",4,"2017-01-01","SEA","Away","SFO","W 25-23","Steven Hauschka\HausSt00",32,"Y","SFO","Not Dome",0.892,9,34.14,0.868
+"4",4,"2017-01-01","PHI","Home","DAL","W 27-13","Caleb Sturgis\SturCa00",49,"N","PHI","Not Dome",0.854,3,37.63,0.81
+"5",4,"2017-01-01","DET","Home","GNB","L 24-31","Matt Prater\PratMa20",39,"N","DET","Dome",0.861,10,40.17,0.831
+"6",4,"2017-01-01","JAX","Away","IND","L 20-24","Jason Myers\MyerJa00",30,"N","IND","Dome",0.794,1,42.82,0.824
+"7",4,"2017-01-01","NYJ","Home","BUF","W 30-10","Nick Folk\FolkNi20",25,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"8",4,"2017-01-01","CLE","Away","PIT","L 24-27","Cody Parkey\ParkCo03",34,"Y","PIT","Not Dome",0.8,2,37.6,0.846
+"9",4,"2017-01-01","TEN","Home","HOU","W 24-17","Ryan Succop\SuccRy44",35,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"10",4,"2017-01-01","CAR","Away","TAM","L 16-17","Graham Gano\GanoGr44",45,"N","TAM","Not Dome",0.789,7,40.61,0.8
+"11",4,"2017-01-01","DEN","Home","OAK","W 24-6","Brandon McManus\McMaBr01",48,"N","DEN","Not Dome",0.853,2,37.88,0.821
+"12",4,"2017-01-01","LAR","Home","ARI","L 6-44","Greg Zuerlein\ZuerGr00",37,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"13",4,"2017-01-01","BUF","Away","NYJ","L 10-30","Dan Carpenter\CarpDa44",34,"Y","NYJ","Not Dome",0.76,8,36.16,0.84
+"14",4,"2017-01-01","BAL","Away","CIN","L 10-27","Justin Tucker\TuckJu00",30,"Y","CIN","Not Dome",0.974,4,41.95,0.899
+"15",4,"2017-01-01","TAM","Home","CAR","W 17-16","Roberto Aguayo\AguaRo00",46,"N","TAM","Not Dome",0.71,0,36.68,0.713
+"16",4,"2017-01-01","KAN","Away","SDG","W 37-27","Cairo Santos\SantCa01",37,"Y","SDG","Not Dome",0.886,2,35.63,0.843
+"17",4,"2017-01-01","SDG","Home","KAN","L 27-37","Josh Lambo\LambJo00",29,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"18",4,"2017-01-01","CAR","Away","TAM","L 16-17","Graham Gano\GanoGr44",54,"Y","TAM","Not Dome",0.789,7,40.61,0.8
+"19",4,"2017-01-01","NWE","Away","MIA","W 35-14","Stephen Gostkowski\GostSt20",26,"Y","MIA","Not Dome",0.844,10,37.16,0.871
+"20",4,"2017-01-01","CHI","Away","MIN","L 10-38","Connor Barth\barthco01",29,"Y","MIN","Dome",0.783,7,35.35,0.84
+"21",4,"2017-01-01","SEA","Away","SFO","W 25-23","Steven Hauschka\HausSt00",28,"Y","SFO","Not Dome",0.892,9,34.14,0.868
+"22",4,"2017-01-01","ARI","Away","LAR","W 44-6","Chandler Catanzaro\CataCh00",34,"Y","LAR","Not Dome",0.75,2,39.07,0.851
+"23",4,"2017-01-01","JAX","Away","IND","L 20-24","Jason Myers\MyerJa00",41,"Y","IND","Dome",0.794,1,42.82,0.824
+"24",4,"2017-01-01","DAL","Away","PHI","L 13-27","Dan Bailey\BailDa00",49,"Y","PHI","Not Dome",0.844,5,38.41,0.897
+"25",4,"2017-01-01","NOR","Away","ATL","L 32-38","Wil Lutz\LutzWi00",19,"Y","ATL","Dome",0.824,0,37.53,0.842
+"26",4,"2017-01-01","IND","Home","JAX","W 24-20","Adam Vinatieri\vinatada01",45,"Y","IND","Dome",0.871,20,43.16,0.842
+"27",4,"2017-01-01","HOU","Away","TEN","L 17-24","Nick Novak\novaknic01",45,"N","TEN","Not Dome",0.854,9,36.78,0.828
+"28",4,"2017-01-01","WAS","Home","NYG","L 10-19","Dustin Hopkins\HopkDu00",57,"N","WAS","Not Dome",0.81,2,36.9,0.845
+"29",4,"2017-01-01","SEA","Away","SFO","W 25-23","Steven Hauschka\HausSt00",31,"Y","SFO","Not Dome",0.892,9,34.14,0.868
+"30",4,"2017-01-01","PHI","Home","DAL","W 27-13","Caleb Sturgis\SturCa00",22,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"31",4,"2017-01-01","JAX","Away","IND","L 20-24","Jason Myers\MyerJa00",47,"Y","IND","Dome",0.794,1,42.82,0.824
+"32",4,"2017-01-01","NYJ","Home","BUF","W 30-10","Nick Folk\FolkNi20",36,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"33",4,"2017-01-01","GNB","Away","DET","W 31-24","Mason Crosby\CrosMa20",53,"Y","DET","Dome",0.867,9,35.4,0.804
+"34",4,"2017-01-01","CLE","Away","PIT","L 24-27","Cody Parkey\ParkCo03",49,"N","PIT","Not Dome",0.8,2,37.6,0.846
+"35",4,"2017-01-01","DEN","Home","OAK","W 24-6","Brandon McManus\McMaBr01",22,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"36",4,"2017-01-01","ATL","Home","NOR","W 38-32","Matt Bryant\bryanmat01",22,"Y","ATL","Dome",0.919,15,37.3,0.858
+"37",4,"2017-01-01","TAM","Home","CAR","W 17-16","Roberto Aguayo\AguaRo00",33,"Y","TAM","Not Dome",0.71,0,36.68,0.713
+"38",4,"2017-01-01","KAN","Away","SDG","W 37-27","Cairo Santos\SantCa01",25,"Y","SDG","Not Dome",0.886,2,35.63,0.843
+"39",4,"2017-01-01","SDG","Home","KAN","L 27-37","Josh Lambo\LambJo00",35,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"40",4,"2017-01-01","NWE","Away","MIA","W 35-14","Stephen Gostkowski\GostSt20",40,"Y","MIA","Not Dome",0.844,10,37.16,0.871
+"41",4,"2017-01-01","SEA","Away","SFO","W 25-23","Steven Hauschka\HausSt00",33,"Y","SFO","Not Dome",0.892,9,34.14,0.868
+"42",4,"2017-01-01","PHI","Home","DAL","W 27-13","Caleb Sturgis\SturCa00",33,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"43",4,"2017-01-01","ARI","Away","LAR","W 44-6","Chandler Catanzaro\CataCh00",32,"Y","LAR","Not Dome",0.75,2,39.07,0.851
+"44",4,"2017-01-01","DET","Home","GNB","L 24-31","Matt Prater\PratMa20",54,"Y","DET","Dome",0.861,10,40.17,0.831
+"45",4,"2017-01-01","JAX","Away","IND","L 20-24","Jason Myers\MyerJa00",54,"N","IND","Dome",0.794,1,42.82,0.824
+"46",4,"2017-01-01","CAR","Away","TAM","L 16-17","Graham Gano\GanoGr44",58,"N","TAM","Not Dome",0.789,7,40.61,0.8
+"47",4,"2017-01-01","IND","Home","JAX","W 24-20","Adam Vinatieri\vinatada01",48,"N","IND","Dome",0.871,20,43.16,0.842
+"48",4,"2017-01-01","LAR","Home","ARI","L 6-44","Greg Zuerlein\ZuerGr00",36,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"49",4,"2017-01-01","NYJ","Home","BUF","W 30-10","Nick Folk\FolkNi20",30,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"51",4,"2017-01-01","CAR","Away","TAM","L 16-17","Graham Gano\GanoGr44",36,"N","TAM","Not Dome",0.789,7,40.61,0.8
+"52",4,"2017-01-01","NWE","Away","MIA","W 35-14","Stephen Gostkowski\GostSt20",52,"N","MIA","Not Dome",0.844,10,37.16,0.871
+"53",4,"2017-01-01","ARI","Away","LAR","W 44-6","Chandler Catanzaro\CataCh00",47,"Y","LAR","Not Dome",0.75,2,39.07,0.851
+"54",4,"2017-01-01","DAL","Away","PHI","L 13-27","Dan Bailey\BailDa00",23,"Y","PHI","Not Dome",0.844,5,38.41,0.897
+"55",4,"2017-01-01","NOR","Away","ATL","L 32-38","Wil Lutz\LutzWi00",40,"Y","ATL","Dome",0.824,0,37.53,0.842
+"56",4,"2017-01-01","KAN","Away","SDG","W 37-27","Cairo Santos\SantCa01",35,"Y","SDG","Not Dome",0.886,2,35.63,0.843
+"57",4,"2016-12-26","DET","Away","DAL","L 21-42","Matt Prater\PratMa20",47,"N","DAL","Dome",0.861,10,40.17,0.831
+"58",4,"2016-12-25","KAN","Home","DEN","W 33-10","Cairo Santos\SantCa01",39,"N","KAN","Not Dome",0.886,2,35.63,0.843
+"59",4,"2016-12-25","PIT","Home","BAL","W 31-27","Chris Boswell\BoswCh00",36,"Y","PIT","Not Dome",0.84,1,40.64,0.877
+"60",4,"2016-12-25","BAL","Away","PIT","L 27-31","Justin Tucker\TuckJu00",38,"Y","PIT","Not Dome",0.974,4,41.95,0.899
+"61",4,"2016-12-25","KAN","Home","DEN","W 33-10","Cairo Santos\SantCa01",39,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"62",4,"2016-12-25","BAL","Away","PIT","L 27-31","Justin Tucker\TuckJu00",23,"Y","PIT","Not Dome",0.974,4,41.95,0.899
+"63",4,"2016-12-25","BAL","Away","PIT","L 27-31","Justin Tucker\TuckJu00",41,"Y","PIT","Not Dome",0.974,4,41.95,0.899
+"64",4,"2016-12-25","KAN","Home","DEN","W 33-10","Cairo Santos\SantCa01",27,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"65",4,"2016-12-25","DEN","Away","KAN","L 10-33","Brandon McManus\McMaBr01",52,"Y","KAN","Not Dome",0.853,2,37.88,0.821
+"66",4,"2016-12-25","BAL","Away","PIT","L 27-31","Justin Tucker\TuckJu00",46,"Y","PIT","Not Dome",0.974,4,41.95,0.899
+"67",4,"2016-12-24","NWE","Home","NYJ","W 41-3","Stephen Gostkowski\GostSt20",22,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"68",4,"2016-12-24","MIA","Away","BUF","W 34-31","Andrew Franks\FranAn01",46,"N","BUF","Not Dome",0.762,1,32.86,0.784
+"69",4,"2016-12-24","ATL","Away","CAR","W 33-16","Matt Bryant\bryanmat01",48,"Y","CAR","Not Dome",0.919,15,37.3,0.858
+"70",4,"2016-12-24","ARI","Away","SEA","W 34-31","Chandler Catanzaro\CataCh00",43,"Y","SEA","Not Dome",0.75,2,39.07,0.851
+"71",4,"2016-12-24","NOR","Home","TAM","W 31-24","Wil Lutz\LutzWi00",34,"Y","NOR","Dome",0.824,0,37.53,0.842
+"72",4,"2016-12-24","IND","Away","OAK","L 25-33","Adam Vinatieri\vinatada01",42,"Y","OAK","Not Dome",0.871,20,43.16,0.842
+"73",4,"2016-12-24","HOU","Home","CIN","W 12-10","Nick Novak\novaknic01",25,"Y","HOU","Dome",0.854,9,36.78,0.828
+"74",4,"2016-12-24","WAS","Away","CHI","W 41-21","Dustin Hopkins\HopkDu00",29,"Y","CHI","Not Dome",0.81,2,36.9,0.845
+"76",4,"2016-12-24","JAX","Home","TEN","W 38-17","Jason Myers\MyerJa00",56,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"77",4,"2016-12-24","NYJ","Away","NWE","L 3-41","Nick Folk\FolkNi20",29,"Y","NWE","Not Dome",0.871,9,33.97,0.813
+"78",4,"2016-12-24","CLE","Home","SDG","W 20-17","Cody Parkey\ParkCo03",49,"Y","CLE","Not Dome",0.8,2,37.6,0.846
+"79",4,"2016-12-24","CAR","Home","ATL","L 16-33","Graham Gano\GanoGr44",31,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"80",4,"2016-12-24","MIA","Away","BUF","W 34-31","Andrew Franks\FranAn01",27,"Y","BUF","Not Dome",0.762,1,32.86,0.784
+"81",4,"2016-12-24","ATL","Away","CAR","W 33-16","Matt Bryant\bryanmat01",29,"Y","CAR","Not Dome",0.919,15,37.3,0.858
+"82",4,"2016-12-24","BUF","Home","MIA","L 31-34","Dan Carpenter\CarpDa44",46,"N","BUF","Not Dome",0.76,8,36.16,0.84
+"84",4,"2016-12-24","NWE","Home","NYJ","W 41-3","Stephen Gostkowski\GostSt20",29,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"85",4,"2016-12-24","ATL","Away","CAR","W 33-16","Matt Bryant\bryanmat01",51,"Y","CAR","Not Dome",0.919,15,37.3,0.858
+"86",4,"2016-12-24","ARI","Away","SEA","W 34-31","Chandler Catanzaro\CataCh00",42,"Y","SEA","Not Dome",0.75,2,39.07,0.851
+"87",4,"2016-12-24","NOR","Home","TAM","W 31-24","Wil Lutz\LutzWi00",42,"Y","NOR","Dome",0.824,0,37.53,0.842
+"88",4,"2016-12-24","TEN","Away","JAX","L 17-38","Ryan Succop\SuccRy44",42,"Y","JAX","Not Dome",0.917,7,39.33,0.831
+"89",4,"2016-12-24","CAR","Home","ATL","L 16-33","Graham Gano\GanoGr44",31,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"90",4,"2016-12-24","JAX","Home","TEN","W 38-17","Jason Myers\MyerJa00",48,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"91",4,"2016-12-24","BUF","Home","MIA","L 31-34","Dan Carpenter\CarpDa44",45,"N","BUF","Not Dome",0.76,8,36.16,0.84
+"92",4,"2016-12-24","NYJ","Away","NWE","L 3-41","Nick Folk\FolkNi20",34,"N","NWE","Not Dome",0.871,9,33.97,0.813
+"93",4,"2016-12-24","MIA","Away","BUF","W 34-31","Andrew Franks\FranAn01",55,"Y","BUF","Not Dome",0.762,1,32.86,0.784
+"96",4,"2016-12-24","NOR","Home","TAM","W 31-24","Wil Lutz\LutzWi00",21,"Y","NOR","Dome",0.824,0,37.53,0.842
+"97",4,"2016-12-24","SDG","Away","CLE","L 17-20","Josh Lambo\LambJo00",43,"Y","CLE","Not Dome",0.813,1,36.38,0.813
+"98",4,"2016-12-24","HOU","Home","CIN","W 12-10","Nick Novak\novaknic01",22,"Y","HOU","Dome",0.854,9,36.78,0.828
+"99",4,"2016-12-24","WAS","Away","CHI","W 41-21","Dustin Hopkins\HopkDu00",20,"Y","CHI","Not Dome",0.81,2,36.9,0.845
+"100",4,"2016-12-24","SEA","Home","ARI","L 31-34","Steven Hauschka\HausSt00",27,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"101",4,"2016-12-24","ARI","Away","SEA","W 34-31","Chandler Catanzaro\CataCh00",53,"N","SEA","Not Dome",0.75,2,39.07,0.851
+"102",4,"2016-12-24","JAX","Home","TEN","W 38-17","Jason Myers\MyerJa00",50,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"103",4,"2016-12-24","GNB","Home","MIN","W 38-25","Mason Crosby\CrosMa20",48,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"104",4,"2016-12-24","CLE","Home","SDG","W 20-17","Cody Parkey\ParkCo03",27,"Y","CLE","Not Dome",0.8,2,37.6,0.846
+"105",4,"2016-12-24","CAR","Home","ATL","L 16-33","Graham Gano\GanoGr44",40,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"106",4,"2016-12-24","ATL","Away","CAR","W 33-16","Matt Bryant\bryanmat01",50,"Y","CAR","Not Dome",0.919,15,37.3,0.858
+"107",4,"2016-12-24","JAX","Home","TEN","W 38-17","Jason Myers\MyerJa00",29,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"108",4,"2016-12-24","BUF","Home","MIA","L 31-34","Dan Carpenter\CarpDa44",28,"Y","BUF","Not Dome",0.76,8,36.16,0.84
+"109",4,"2016-12-24","TAM","Away","NOR","L 24-31","Roberto Aguayo\AguaRo00",35,"Y","NOR","Dome",0.71,0,36.68,0.713
+"110",4,"2016-12-24","SDG","Away","CLE","L 17-20","Josh Lambo\LambJo00",45,"N","CLE","Not Dome",0.813,1,36.38,0.813
+"112",4,"2016-12-22","PHI","Home","NYG","W 24-19","Caleb Sturgis\SturCa00",41,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"113",4,"2016-12-19","CAR","Away","WAS","W 26-15","Graham Gano\GanoGr44",35,"Y","WAS","Not Dome",0.789,7,40.61,0.8
+"114",4,"2016-12-19","WAS","Home","CAR","L 15-26","Dustin Hopkins\HopkDu00",43,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"115",4,"2016-12-19","CAR","Away","WAS","W 26-15","Graham Gano\GanoGr44",23,"Y","WAS","Not Dome",0.789,7,40.61,0.8
+"116",4,"2016-12-19","WAS","Home","CAR","L 15-26","Dustin Hopkins\HopkDu00",34,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"117",4,"2016-12-19","CAR","Away","WAS","W 26-15","Graham Gano\GanoGr44",41,"Y","WAS","Not Dome",0.789,7,40.61,0.8
+"118",4,"2016-12-19","CAR","Away","WAS","W 26-15","Graham Gano\GanoGr44",23,"Y","WAS","Not Dome",0.789,7,40.61,0.8
+"119",4,"2016-12-19","WAS","Home","CAR","L 15-26","Dustin Hopkins\HopkDu00",26,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"120",4,"2016-12-19","CAR","Away","WAS","W 26-15","Graham Gano\GanoGr44",38,"N","WAS","Not Dome",0.789,7,40.61,0.8
+"121",4,"2016-12-18","OAK","Away","SDG","W 19-16","Sebastian Janikowski\janikseb01",44,"Y","SDG","Not Dome",0.829,16,38.54,0.804
+"122",4,"2016-12-18","CHI","Home","GNB","L 27-30","Connor Barth\barthco01",22,"Y","CHI","Not Dome",0.783,7,35.35,0.84
+"123",4,"2016-12-18","BUF","Home","CLE","W 33-13","Dan Carpenter\CarpDa44",21,"Y","BUF","Not Dome",0.76,8,36.16,0.84
+"124",4,"2016-12-18","BAL","Home","PHI","W 27-26","Justin Tucker\TuckJu00",47,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"125",4,"2016-12-18","PIT","Away","CIN","W 24-20","Chris Boswell\BoswCh00",49,"Y","CIN","Not Dome",0.84,1,40.64,0.877
+"126",4,"2016-12-18","DAL","Home","TAM","W 26-20","Dan Bailey\BailDa00",38,"Y","DAL","Dome",0.844,5,38.41,0.897
+"127",4,"2016-12-18","SDG","Home","OAK","L 16-19","Josh Lambo\LambJo00",35,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"128",4,"2016-12-18","OAK","Away","SDG","W 19-16","Sebastian Janikowski\janikseb01",45,"Y","SDG","Not Dome",0.829,16,38.54,0.804
+"129",4,"2016-12-18","NWE","Away","DEN","W 16-3","Stephen Gostkowski\GostSt20",40,"Y","DEN","Not Dome",0.844,10,37.16,0.871
+"130",4,"2016-12-18","ATL","Home","SFO","W 41-13","Matt Bryant\bryanmat01",50,"Y","ATL","Dome",0.919,15,37.3,0.858
+"131",4,"2016-12-18","PHI","Away","BAL","L 26-27","Caleb Sturgis\SturCa00",29,"Y","BAL","Not Dome",0.854,3,37.63,0.81
+"132",4,"2016-12-18","ARI","Home","NOR","L 41-48","Chandler Catanzaro\CataCh00",55,"N","ARI","Dome",0.75,2,39.07,0.851
+"133",4,"2016-12-18","DET","Away","NYG","L 6-17","Matt Prater\PratMa20",48,"Y","NYG","Not Dome",0.861,10,40.17,0.831
+"134",4,"2016-12-18","DAL","Home","TAM","W 26-20","Dan Bailey\BailDa00",27,"Y","DAL","Dome",0.844,5,38.41,0.897
+"135",4,"2016-12-18","NOR","Away","ARI","W 48-41","Wil Lutz\LutzWi00",37,"Y","ARI","Dome",0.824,0,37.53,0.842
+"136",4,"2016-12-18","GNB","Away","CHI","W 30-27","Mason Crosby\CrosMa20",32,"Y","CHI","Not Dome",0.867,9,35.4,0.804
+"137",4,"2016-12-18","TEN","Away","KAN","W 19-17","Ryan Succop\SuccRy44",39,"Y","KAN","Not Dome",0.917,7,39.33,0.831
+"138",4,"2016-12-18","DEN","Home","NWE","L 3-16","Brandon McManus\McMaBr01",33,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"139",4,"2016-12-18","HOU","Home","JAX","W 21-20","Nick Novak\novaknic01",45,"Y","HOU","Dome",0.854,9,36.78,0.828
+"140",4,"2016-12-18","PHI","Away","BAL","L 26-27","Caleb Sturgis\SturCa00",45,"Y","BAL","Not Dome",0.854,3,37.63,0.81
+"141",4,"2016-12-18","JAX","Away","HOU","L 20-21","Jason Myers\MyerJa00",50,"Y","HOU","Dome",0.794,1,42.82,0.824
+"142",4,"2016-12-18","PIT","Away","CIN","W 24-20","Chris Boswell\BoswCh00",40,"Y","CIN","Not Dome",0.84,1,40.64,0.877
+"143",4,"2016-12-18","TAM","Away","DAL","L 20-26","Roberto Aguayo\AguaRo00",34,"Y","DAL","Dome",0.71,0,36.68,0.713
+"144",4,"2016-12-18","OAK","Away","SDG","W 19-16","Sebastian Janikowski\janikseb01",21,"Y","SDG","Not Dome",0.829,16,38.54,0.804
+"145",4,"2016-12-18","CHI","Home","GNB","L 27-30","Connor Barth\barthco01",26,"Y","CHI","Not Dome",0.783,7,35.35,0.84
+"146",4,"2016-12-18","BAL","Home","PHI","W 27-26","Justin Tucker\TuckJu00",53,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"147",4,"2016-12-18","PIT","Away","CIN","W 24-20","Chris Boswell\BoswCh00",45,"Y","CIN","Not Dome",0.84,1,40.64,0.877
+"148",4,"2016-12-18","DAL","Home","TAM","W 26-20","Dan Bailey\BailDa00",40,"Y","DAL","Dome",0.844,5,38.41,0.897
+"149",4,"2016-12-18","KAN","Home","TEN","L 17-19","Cairo Santos\SantCa01",34,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"150",4,"2016-12-18","NWE","Away","DEN","W 16-3","Stephen Gostkowski\GostSt20",45,"Y","DEN","Not Dome",0.844,10,37.16,0.871
+"151",4,"2016-12-18","IND","Away","MIN","W 34-6","Adam Vinatieri\vinatada01",50,"Y","MIN","Dome",0.871,20,43.16,0.842
+"152",4,"2016-12-18","HOU","Home","JAX","W 21-20","Nick Novak\novaknic01",27,"Y","HOU","Dome",0.854,9,36.78,0.828
+"153",4,"2016-12-18","PHI","Away","BAL","L 26-27","Caleb Sturgis\SturCa00",27,"Y","BAL","Not Dome",0.854,3,37.63,0.81
+"154",4,"2016-12-18","PIT","Away","CIN","W 24-20","Chris Boswell\BoswCh00",30,"Y","CIN","Not Dome",0.84,1,40.64,0.877
+"155",4,"2016-12-18","DAL","Home","TAM","W 26-20","Dan Bailey\BailDa00",56,"N","DAL","Dome",0.844,5,38.41,0.897
+"156",4,"2016-12-18","GNB","Away","CHI","W 30-27","Mason Crosby\CrosMa20",18,"Y","CHI","Not Dome",0.867,9,35.4,0.804
+"157",4,"2016-12-18","CLE","Away","BUF","L 13-33","Cody Parkey\ParkCo03",40,"Y","BUF","Not Dome",0.8,2,37.6,0.846
+"158",4,"2016-12-18","HOU","Home","JAX","W 21-20","Nick Novak\novaknic01",39,"Y","HOU","Dome",0.854,9,36.78,0.828
+"159",4,"2016-12-18","JAX","Away","HOU","L 20-21","Jason Myers\MyerJa00",26,"Y","HOU","Dome",0.794,1,42.82,0.824
+"160",4,"2016-12-18","BUF","Home","CLE","W 33-13","Dan Carpenter\CarpDa44",34,"Y","BUF","Not Dome",0.76,8,36.16,0.84
+"161",4,"2016-12-18","PIT","Away","CIN","W 24-20","Chris Boswell\BoswCh00",49,"Y","CIN","Not Dome",0.84,1,40.64,0.877
+"162",4,"2016-12-18","DAL","Home","TAM","W 26-20","Dan Bailey\BailDa00",33,"Y","DAL","Dome",0.844,5,38.41,0.897
+"163",4,"2016-12-18","TAM","Away","DAL","L 20-26","Roberto Aguayo\AguaRo00",25,"Y","DAL","Dome",0.71,0,36.68,0.713
+"164",4,"2016-12-18","OAK","Away","SDG","W 19-16","Sebastian Janikowski\janikseb01",33,"Y","SDG","Not Dome",0.829,16,38.54,0.804
+"165",4,"2016-12-18","NWE","Away","DEN","W 16-3","Stephen Gostkowski\GostSt20",21,"Y","DEN","Not Dome",0.844,10,37.16,0.871
+"166",4,"2016-12-18","ATL","Home","SFO","W 41-13","Matt Bryant\bryanmat01",41,"Y","ATL","Dome",0.919,15,37.3,0.858
+"167",4,"2016-12-18","DET","Away","NYG","L 6-17","Matt Prater\PratMa20",33,"Y","NYG","Not Dome",0.861,10,40.17,0.831
+"168",4,"2016-12-18","DAL","Home","TAM","W 26-20","Dan Bailey\BailDa00",52,"N","DAL","Dome",0.844,5,38.41,0.897
+"169",4,"2016-12-18","NOR","Away","ARI","W 48-41","Wil Lutz\LutzWi00",39,"Y","ARI","Dome",0.824,0,37.53,0.842
+"170",4,"2016-12-18","TEN","Away","KAN","W 19-17","Ryan Succop\SuccRy44",53,"Y","KAN","Not Dome",0.917,7,39.33,0.831
+"171",4,"2016-12-18","IND","Away","MIN","W 34-6","Adam Vinatieri\vinatada01",48,"Y","MIN","Dome",0.871,20,43.16,0.842
+"172",4,"2016-12-18","HOU","Home","JAX","W 21-20","Nick Novak\novaknic01",43,"Y","HOU","Dome",0.854,9,36.78,0.828
+"173",4,"2016-12-18","PHI","Away","BAL","L 26-27","Caleb Sturgis\SturCa00",34,"Y","BAL","Not Dome",0.854,3,37.63,0.81
+"174",4,"2016-12-18","PIT","Away","CIN","W 24-20","Chris Boswell\BoswCh00",49,"Y","CIN","Not Dome",0.84,1,40.64,0.877
+"175",4,"2016-12-18","GNB","Away","CHI","W 30-27","Mason Crosby\CrosMa20",34,"Y","CHI","Not Dome",0.867,9,35.4,0.804
+"176",4,"2016-12-18","CLE","Away","BUF","L 13-33","Cody Parkey\ParkCo03",35,"Y","BUF","Not Dome",0.8,2,37.6,0.846
+"177",4,"2016-12-17","NYJ","Home","MIA","L 13-34","Nick Folk\FolkNi20",48,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"178",4,"2016-12-17","NYJ","Home","MIA","L 13-34","Nick Folk\FolkNi20",36,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"179",4,"2016-12-15","LAR","Away","SEA","L 3-24","Greg Zuerlein\ZuerGr00",36,"Y","SEA","Not Dome",0.864,4,38.68,0.799
+"180",4,"2016-12-15","SEA","Home","LAR","W 24-3","Steven Hauschka\HausSt00",48,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"181",4,"2016-12-12","BAL","Away","NWE","L 23-30","Justin Tucker\TuckJu00",38,"Y","NWE","Not Dome",0.974,4,41.95,0.899
+"182",4,"2016-12-12","BAL","Away","NWE","L 23-30","Justin Tucker\TuckJu00",50,"Y","NWE","Not Dome",0.974,4,41.95,0.899
+"183",4,"2016-12-12","BAL","Away","NWE","L 23-30","Justin Tucker\TuckJu00",37,"Y","NWE","Not Dome",0.974,4,41.95,0.899
+"185",4,"2016-12-11","HOU","Away","IND","W 22-17","Nick Novak\novaknic01",34,"Y","IND","Dome",0.854,9,36.78,0.828
+"186",4,"2016-12-11","PHI","Home","WAS","L 22-27","Caleb Sturgis\SturCa00",36,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"188",4,"2016-12-11","NYJ","Away","SFO","W 23-17","Nick Folk\FolkNi20",30,"Y","SFO","Not Dome",0.871,9,33.97,0.813
+"189",4,"2016-12-11","TAM","Home","NOR","W 16-11","Roberto Aguayo\AguaRo00",26,"Y","TAM","Not Dome",0.71,0,36.68,0.713
+"190",4,"2016-12-11","HOU","Away","IND","W 22-17","Nick Novak\novaknic01",52,"Y","IND","Dome",0.854,9,36.78,0.828
+"191",4,"2016-12-11","JAX","Home","MIN","L 16-25","Jason Myers\MyerJa00",55,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"192",4,"2016-12-11","SFO","Home","NYJ","L 17-23","Phil Dawson\dawsophi01",44,"N","SFO","Not Dome",0.857,18,40.33,0.844
+"193",4,"2016-12-11","PIT","Away","BUF","W 27-20","Chris Boswell\BoswCh00",37,"Y","BUF","Not Dome",0.84,1,40.64,0.877
+"194",4,"2016-12-11","CAR","Home","SDG","W 28-16","Graham Gano\GanoGr44",44,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"195",4,"2016-12-11","IND","Home","HOU","L 17-22","Adam Vinatieri\vinatada01",55,"N","IND","Dome",0.871,20,43.16,0.842
+"196",4,"2016-12-11","NOR","Away","TAM","L 11-16","Wil Lutz\LutzWi00",42,"Y","TAM","Not Dome",0.824,0,37.53,0.842
+"197",4,"2016-12-11","GNB","Home","SEA","W 38-10","Mason Crosby\CrosMa20",38,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"198",4,"2016-12-11","CLE","Home","CIN","L 10-23","Cody Parkey\ParkCo03",30,"Y","CLE","Not Dome",0.8,2,37.6,0.846
+"199",4,"2016-12-11","MIA","Home","ARI","W 26-23","Andrew Franks\FranAn01",21,"Y","MIA","Not Dome",0.762,1,32.86,0.784
+"200",4,"2016-12-11","HOU","Away","IND","W 22-17","Nick Novak\novaknic01",41,"Y","IND","Dome",0.854,9,36.78,0.828
+"201",4,"2016-12-11","PHI","Home","WAS","L 22-27","Caleb Sturgis\SturCa00",45,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"202",4,"2016-12-11","JAX","Home","MIN","L 16-25","Jason Myers\MyerJa00",41,"N","JAX","Not Dome",0.794,1,42.82,0.824
+"203",4,"2016-12-11","CIN","Away","CLE","W 23-10","Mike Nugent\nugenmik01",44,"Y","CLE","Not Dome",0.793,12,35.17,0.808
+"204",4,"2016-12-11","SFO","Home","NYJ","L 17-23","Phil Dawson\dawsophi01",47,"Y","SFO","Not Dome",0.857,18,40.33,0.844
+"205",4,"2016-12-11","NYJ","Away","SFO","W 23-17","Nick Folk\FolkNi20",36,"Y","SFO","Not Dome",0.871,9,33.97,0.813
+"206",4,"2016-12-11","TAM","Home","NOR","W 16-11","Roberto Aguayo\AguaRo00",39,"Y","TAM","Not Dome",0.71,0,36.68,0.713
+"207",4,"2016-12-11","CAR","Home","SDG","W 28-16","Graham Gano\GanoGr44",23,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"208",4,"2016-12-11","SDG","Away","CAR","L 16-28","Josh Lambo\LambJo00",32,"Y","CAR","Not Dome",0.813,1,36.38,0.813
+"209",4,"2016-12-11","HOU","Away","IND","W 22-17","Nick Novak\novaknic01",21,"Y","IND","Dome",0.854,9,36.78,0.828
+"210",4,"2016-12-11","ARI","Away","MIA","L 23-26","Chandler Catanzaro\CataCh00",56,"Y","MIA","Not Dome",0.75,2,39.07,0.851
+"211",4,"2016-12-11","JAX","Home","MIN","L 16-25","Jason Myers\MyerJa00",45,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"212",4,"2016-12-11","DET","Home","CHI","W 20-17","Matt Prater\PratMa20",54,"Y","DET","Dome",0.861,10,40.17,0.831
+"213",4,"2016-12-11","NOR","Away","TAM","L 11-16","Wil Lutz\LutzWi00",22,"Y","TAM","Not Dome",0.824,0,37.53,0.842
+"214",4,"2016-12-11","CAR","Home","SDG","W 28-16","Graham Gano\GanoGr44",41,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"215",4,"2016-12-11","TEN","Home","DEN","W 13-10","Ryan Succop\SuccRy44",41,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"216",4,"2016-12-11","DEN","Away","TEN","L 10-13","Brandon McManus\McMaBr01",34,"Y","TEN","Not Dome",0.853,2,37.88,0.821
+"217",4,"2016-12-11","IND","Home","HOU","L 17-22","Adam Vinatieri\vinatada01",32,"Y","IND","Dome",0.871,20,43.16,0.842
+"218",4,"2016-12-11","WAS","Away","PHI","W 27-22","Dustin Hopkins\HopkDu00",38,"N","PHI","Not Dome",0.81,2,36.9,0.845
+"219",4,"2016-12-11","PHI","Home","WAS","L 22-27","Caleb Sturgis\SturCa00",41,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"220",4,"2016-12-11","NYJ","Away","SFO","W 23-17","Nick Folk\FolkNi20",50,"Y","SFO","Not Dome",0.871,9,33.97,0.813
+"221",4,"2016-12-11","GNB","Home","SEA","W 38-10","Mason Crosby\CrosMa20",51,"N","GNB","Not Dome",0.867,9,35.4,0.804
+"222",4,"2016-12-11","HOU","Away","IND","W 22-17","Nick Novak\novaknic01",24,"Y","IND","Dome",0.854,9,36.78,0.828
+"223",4,"2016-12-11","CHI","Away","DET","L 17-20","Connor Barth\barthco01",38,"Y","DET","Dome",0.783,7,35.35,0.84
+"224",4,"2016-12-11","JAX","Home","MIN","L 16-25","Jason Myers\MyerJa00",24,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"225",4,"2016-12-11","CIN","Away","CLE","W 23-10","Mike Nugent\nugenmik01",36,"N","CLE","Not Dome",0.793,12,35.17,0.808
+"226",4,"2016-12-11","SFO","Home","NYJ","L 17-23","Phil Dawson\dawsophi01",48,"N","SFO","Not Dome",0.857,18,40.33,0.844
+"227",4,"2016-12-11","PIT","Away","BUF","W 27-20","Chris Boswell\BoswCh00",39,"Y","BUF","Not Dome",0.84,1,40.64,0.877
+"228",4,"2016-12-11","TAM","Home","NOR","W 16-11","Roberto Aguayo\AguaRo00",41,"Y","TAM","Not Dome",0.71,0,36.68,0.713
+"229",4,"2016-12-11","CAR","Home","SDG","W 28-16","Graham Gano\GanoGr44",45,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"230",4,"2016-12-11","SEA","Away","GNB","L 10-38","Steven Hauschka\HausSt00",28,"Y","GNB","Not Dome",0.892,9,34.14,0.868
+"231",4,"2016-12-11","ARI","Away","MIA","L 23-26","Chandler Catanzaro\CataCh00",41,"N","MIA","Not Dome",0.75,2,39.07,0.851
+"232",4,"2016-12-11","DET","Home","CHI","W 20-17","Matt Prater\PratMa20",29,"Y","DET","Dome",0.861,10,40.17,0.831
+"233",4,"2016-12-11","DAL","Away","NYG","L 7-10","Dan Bailey\BailDa00",55,"N","NYG","Not Dome",0.844,5,38.41,0.897
+"234",4,"2016-12-11","NOR","Away","TAM","L 11-16","Wil Lutz\LutzWi00",34,"Y","TAM","Not Dome",0.824,0,37.53,0.842
+"235",4,"2016-12-11","TEN","Home","DEN","W 13-10","Ryan Succop\SuccRy44",53,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"236",4,"2016-12-08","OAK","Away","KAN","L 13-21","Sebastian Janikowski\janikseb01",33,"Y","KAN","Not Dome",0.829,16,38.54,0.804
+"237",4,"2016-12-08","OAK","Away","KAN","L 13-21","Sebastian Janikowski\janikseb01",44,"Y","KAN","Not Dome",0.829,16,38.54,0.804
+"238",4,"2016-12-05","IND","Away","NYJ","W 41-10","Adam Vinatieri\vinatada01",36,"Y","NYJ","Not Dome",0.871,20,43.16,0.842
+"239",4,"2016-12-05","IND","Away","NYJ","W 41-10","Adam Vinatieri\vinatada01",53,"Y","NYJ","Not Dome",0.871,20,43.16,0.842
+"240",4,"2016-12-05","NYJ","Home","IND","L 10-41","Nick Folk\FolkNi20",38,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"241",4,"2016-12-04","NWE","Home","LAR","W 26-10","Stephen Gostkowski\GostSt20",28,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"242",4,"2016-12-04","DEN","Away","JAX","W 20-10","Brandon McManus\McMaBr01",41,"Y","JAX","Not Dome",0.853,2,37.88,0.821
+"243",4,"2016-12-04","WAS","Away","ARI","L 23-31","Dustin Hopkins\HopkDu00",53,"Y","ARI","Dome",0.81,2,36.9,0.845
+"244",4,"2016-12-04","SEA","Home","CAR","W 40-7","Steven Hauschka\HausSt00",37,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"245",4,"2016-12-04","DET","Away","NOR","W 28-13","Matt Prater\PratMa20",32,"Y","NOR","Dome",0.861,10,40.17,0.831
+"246",4,"2016-12-04","NOR","Home","DET","L 13-28","Wil Lutz\LutzWi00",40,"Y","NOR","Dome",0.824,0,37.53,0.842
+"247",4,"2016-12-04","OAK","Home","BUF","W 38-24","Sebastian Janikowski\janikseb01",47,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"248",4,"2016-12-04","CHI","Home","SFO","W 26-6","Connor Barth\barthco01",45,"Y","CHI","Not Dome",0.783,7,35.35,0.84
+"249",4,"2016-12-04","CIN","Home","PHI","W 32-14","Mike Nugent\nugenmik01",38,"Y","CIN","Not Dome",0.793,12,35.17,0.808
+"250",4,"2016-12-04","TAM","Away","SDG","W 28-21","Roberto Aguayo\AguaRo00",35,"Y","SDG","Not Dome",0.71,0,36.68,0.713
+"251",4,"2016-12-04","NWE","Home","LAR","W 26-10","Stephen Gostkowski\GostSt20",45,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"252",4,"2016-12-04","ATL","Home","KAN","L 28-29","Matt Bryant\bryanmat01",22,"Y","ATL","Dome",0.919,15,37.3,0.858
+"253",4,"2016-12-04","SEA","Home","CAR","W 40-7","Steven Hauschka\HausSt00",28,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"254",4,"2016-12-04","ARI","Home","WAS","W 31-23","Chandler Catanzaro\CataCh00",53,"N","ARI","Dome",0.75,2,39.07,0.851
+"255",4,"2016-12-04","DET","Away","NOR","W 28-13","Matt Prater\PratMa20",52,"Y","NOR","Dome",0.861,10,40.17,0.831
+"256",4,"2016-12-04","CIN","Home","PHI","W 32-14","Mike Nugent\nugenmik01",32,"Y","CIN","Not Dome",0.793,12,35.17,0.808
+"257",4,"2016-12-04","BAL","Home","MIA","W 38-6","Justin Tucker\TuckJu00",55,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"258",4,"2016-12-04","OAK","Home","BUF","W 38-24","Sebastian Janikowski\janikseb01",47,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"259",4,"2016-12-04","DEN","Away","JAX","W 20-10","Brandon McManus\McMaBr01",32,"Y","JAX","Not Dome",0.853,2,37.88,0.821
+"260",4,"2016-12-04","WAS","Away","ARI","L 23-31","Dustin Hopkins\HopkDu00",20,"Y","ARI","Dome",0.81,2,36.9,0.845
+"261",4,"2016-12-04","SEA","Home","CAR","W 40-7","Steven Hauschka\HausSt00",23,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"262",4,"2016-12-04","DET","Away","NOR","W 28-13","Matt Prater\PratMa20",29,"Y","NOR","Dome",0.861,10,40.17,0.831
+"263",4,"2016-12-04","BUF","Away","OAK","L 24-38","Dan Carpenter\CarpDa44",27,"Y","OAK","Not Dome",0.76,8,36.16,0.84
+"264",4,"2016-12-04","ATL","Home","KAN","L 28-29","Matt Bryant\bryanmat01",59,"Y","ATL","Dome",0.919,15,37.3,0.858
+"265",4,"2016-12-04","CIN","Home","PHI","W 32-14","Mike Nugent\nugenmik01",26,"Y","CIN","Not Dome",0.793,12,35.17,0.808
+"266",4,"2016-12-04","SFO","Away","CHI","L 6-26","Phil Dawson\dawsophi01",28,"Y","CHI","Not Dome",0.857,18,40.33,0.844
+"267",4,"2016-12-04","TAM","Away","SDG","W 28-21","Roberto Aguayo\AguaRo00",27,"Y","SDG","Not Dome",0.71,0,36.68,0.713
+"268",4,"2016-12-04","NWE","Home","LAR","W 26-10","Stephen Gostkowski\GostSt20",48,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"269",4,"2016-12-04","SEA","Home","CAR","W 40-7","Steven Hauschka\HausSt00",31,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"270",4,"2016-12-04","ARI","Home","WAS","W 31-23","Chandler Catanzaro\CataCh00",28,"Y","ARI","Dome",0.75,2,39.07,0.851
+"271",4,"2016-12-04","DET","Away","NOR","W 28-13","Matt Prater\PratMa20",27,"Y","NOR","Dome",0.861,10,40.17,0.831
+"272",4,"2016-12-04","NOR","Home","DET","L 13-28","Wil Lutz\LutzWi00",32,"Y","NOR","Dome",0.824,0,37.53,0.842
+"273",4,"2016-12-04","OAK","Home","BUF","W 38-24","Sebastian Janikowski\janikseb01",41,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"274",4,"2016-12-04","MIA","Away","BAL","L 6-38","Andrew Franks\FranAn01",46,"N","BAL","Not Dome",0.762,1,32.86,0.784
+"275",4,"2016-12-04","WAS","Away","ARI","L 23-31","Dustin Hopkins\HopkDu00",47,"Y","ARI","Dome",0.81,2,36.9,0.845
+"276",4,"2016-12-04","PHI","Away","CIN","L 14-32","Caleb Sturgis\SturCa00",51,"N","CIN","Not Dome",0.854,3,37.63,0.81
+"277",4,"2016-12-04","DET","Away","NOR","W 28-13","Matt Prater\PratMa20",27,"Y","NOR","Dome",0.861,10,40.17,0.831
+"278",4,"2016-12-04","SDG","Home","TAM","L 21-28","Josh Lambo\LambJo00",53,"N","SDG","Not Dome",0.813,1,36.38,0.813
+"279",4,"2016-12-04","NWE","Home","LAR","W 26-10","Stephen Gostkowski\GostSt20",45,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"280",4,"2016-12-04","LAR","Away","NWE","L 10-26","Greg Zuerlein\ZuerGr00",44,"Y","NWE","Not Dome",0.864,4,38.68,0.799
+"281",4,"2016-12-04","ATL","Home","KAN","L 28-29","Matt Bryant\bryanmat01",22,"Y","ATL","Dome",0.919,15,37.3,0.858
+"282",4,"2016-12-04","JAX","Home","DEN","L 10-20","Jason Myers\MyerJa00",47,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"283",4,"2016-12-04","CIN","Home","PHI","W 32-14","Mike Nugent\nugenmik01",33,"Y","CIN","Not Dome",0.793,12,35.17,0.808
+"284",4,"2016-12-04","SFO","Away","CHI","L 6-26","Phil Dawson\dawsophi01",31,"Y","CHI","Not Dome",0.857,18,40.33,0.844
+"285",4,"2016-12-04","TAM","Away","SDG","W 28-21","Roberto Aguayo\AguaRo00",31,"N","SDG","Not Dome",0.71,0,36.68,0.713
+"286",4,"2016-12-01","DAL","Away","MIN","W 17-15","Dan Bailey\BailDa00",39,"Y","MIN","Dome",0.844,5,38.41,0.897
+"288",3,"2016-11-28","GNB","Away","PHI","W 27-13","Mason Crosby\CrosMa20",32,"Y","PHI","Not Dome",0.867,9,35.4,0.804
+"289",3,"2016-11-28","PHI","Home","GNB","L 13-27","Caleb Sturgis\SturCa00",50,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"290",3,"2016-11-28","GNB","Away","PHI","W 27-13","Mason Crosby\CrosMa20",33,"Y","PHI","Not Dome",0.867,9,35.4,0.804
+"291",3,"2016-11-28","PHI","Home","GNB","L 13-27","Caleb Sturgis\SturCa00",48,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"292",3,"2016-11-27","ARI","Away","ATL","L 19-38","Chandler Catanzaro\CataCh00",54,"Y","ATL","Dome",0.75,2,39.07,0.851
+"293",3,"2016-11-27","CIN","Away","BAL","L 14-19","Mike Nugent\nugenmik01",23,"Y","BAL","Not Dome",0.793,12,35.17,0.808
+"294",3,"2016-11-27","BAL","Home","CIN","W 19-14","Justin Tucker\TuckJu00",54,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"295",3,"2016-11-27","CLE","Home","NYG","L 13-27","Cody Parkey\ParkCo03",20,"Y","CLE","Not Dome",0.8,2,37.6,0.846
+"296",3,"2016-11-27","NWE","Away","NYJ","W 22-17","Stephen Gostkowski\GostSt20",39,"N","NYJ","Not Dome",0.844,10,37.16,0.871
+"297",3,"2016-11-27","DEN","Home","KAN","L 27-30","Brandon McManus\McMaBr01",44,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"298",3,"2016-11-27","MIA","Home","SFO","W 31-24","Andrew Franks\FranAn01",24,"Y","MIA","Not Dome",0.762,1,32.86,0.784
+"300",3,"2016-11-27","KAN","Away","DEN","W 30-27","Cairo Santos\SantCa01",37,"Y","DEN","Not Dome",0.886,2,35.63,0.843
+"301",3,"2016-11-27","SDG","Away","HOU","W 21-13","Josh Lambo\LambJo00",54,"N","HOU","Dome",0.813,1,36.38,0.813
+"302",3,"2016-11-27","HOU","Home","SDG","L 13-21","Nick Novak\novaknic01",19,"Y","HOU","Dome",0.854,9,36.78,0.828
+"303",3,"2016-11-27","SFO","Away","MIA","L 24-31","Phil Dawson\dawsophi01",36,"Y","MIA","Not Dome",0.857,18,40.33,0.844
+"304",3,"2016-11-27","TAM","Home","SEA","W 14-5","Roberto Aguayo\AguaRo00",48,"N","TAM","Not Dome",0.71,0,36.68,0.713
+"305",3,"2016-11-27","TEN","Away","CHI","W 27-21","Ryan Succop\SuccRy44",31,"Y","CHI","Not Dome",0.917,7,39.33,0.831
+"306",3,"2016-11-27","NWE","Away","NYJ","W 22-17","Stephen Gostkowski\GostSt20",41,"Y","NYJ","Not Dome",0.844,10,37.16,0.871
+"307",3,"2016-11-27","ARI","Away","ATL","L 19-38","Chandler Catanzaro\CataCh00",25,"Y","ATL","Dome",0.75,2,39.07,0.851
+"308",3,"2016-11-27","BAL","Home","CIN","W 19-14","Justin Tucker\TuckJu00",57,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"309",3,"2016-11-27","OAK","Home","CAR","W 35-32","Sebastian Janikowski\janikseb01",23,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"310",3,"2016-11-27","NWE","Away","NYJ","W 22-17","Stephen Gostkowski\GostSt20",28,"Y","NYJ","Not Dome",0.844,10,37.16,0.871
+"311",3,"2016-11-27","DEN","Home","KAN","L 27-30","Brandon McManus\McMaBr01",33,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"312",3,"2016-11-27","NYJ","Home","NWE","L 17-22","Nick Folk\FolkNi20",51,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"313",3,"2016-11-27","ATL","Home","ARI","W 38-19","Matt Bryant\bryanmat01",45,"Y","ATL","Dome",0.919,15,37.3,0.858
+"314",3,"2016-11-27","CIN","Away","BAL","L 14-19","Mike Nugent\nugenmik01",36,"Y","BAL","Not Dome",0.793,12,35.17,0.808
+"315",3,"2016-11-27","BAL","Home","CIN","W 19-14","Justin Tucker\TuckJu00",36,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"316",3,"2016-11-27","CLE","Home","NYG","L 13-27","Cody Parkey\ParkCo03",25,"Y","CLE","Not Dome",0.8,2,37.6,0.846
+"317",3,"2016-11-27","TEN","Away","CHI","W 27-21","Ryan Succop\SuccRy44",19,"Y","CHI","Not Dome",0.917,7,39.33,0.831
+"318",3,"2016-11-27","NWE","Away","NYJ","W 22-17","Stephen Gostkowski\GostSt20",29,"Y","NYJ","Not Dome",0.844,10,37.16,0.871
+"319",3,"2016-11-27","DEN","Home","KAN","L 27-30","Brandon McManus\McMaBr01",62,"N","DEN","Not Dome",0.853,2,37.88,0.821
+"320",3,"2016-11-27","SEA","Away","TAM","L 5-14","Steven Hauschka\HausSt00",43,"Y","TAM","Not Dome",0.892,9,34.14,0.868
+"321",3,"2016-11-27","BAL","Home","CIN","W 19-14","Justin Tucker\TuckJu00",52,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"322",3,"2016-11-27","KAN","Away","DEN","W 30-27","Cairo Santos\SantCa01",34,"Y","DEN","Not Dome",0.886,2,35.63,0.843
+"323",3,"2016-11-27","OAK","Home","CAR","W 35-32","Sebastian Janikowski\janikseb01",23,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"324",3,"2016-11-27","HOU","Home","SDG","L 13-21","Nick Novak\novaknic01",45,"Y","HOU","Dome",0.854,9,36.78,0.828
+"325",3,"2016-11-24","WAS","Away","DAL","L 26-31","Dustin Hopkins\HopkDu00",20,"Y","DAL","Dome",0.81,2,36.9,0.845
+"326",3,"2016-11-24","DET","Home","MIN","W 16-13","Matt Prater\PratMa20",40,"Y","DET","Dome",0.861,10,40.17,0.831
+"327",3,"2016-11-24","WAS","Away","DAL","L 26-31","Dustin Hopkins\HopkDu00",43,"N","DAL","Dome",0.81,2,36.9,0.845
+"328",3,"2016-11-24","WAS","Away","DAL","L 26-31","Dustin Hopkins\HopkDu00",55,"N","DAL","Dome",0.81,2,36.9,0.845
+"329",3,"2016-11-24","DET","Home","MIN","W 16-13","Matt Prater\PratMa20",48,"Y","DET","Dome",0.861,10,40.17,0.831
+"330",3,"2016-11-24","DAL","Home","WAS","W 31-26","Dan Bailey\BailDa00",46,"Y","DAL","Dome",0.844,5,38.41,0.897
+"331",3,"2016-11-24","IND","Home","PIT","L 7-28","Adam Vinatieri\vinatada01",52,"N","IND","Dome",0.871,20,43.16,0.842
+"332",3,"2016-11-24","WAS","Away","DAL","L 26-31","Dustin Hopkins\HopkDu00",24,"Y","DAL","Dome",0.81,2,36.9,0.845
+"333",3,"2016-11-24","DET","Home","MIN","W 16-13","Matt Prater\PratMa20",29,"Y","DET","Dome",0.861,10,40.17,0.831
+"334",3,"2016-11-21","HOU","Away","OAK","L 20-27","Nick Novak\novaknic01",32,"Y","OAK","Not Dome",0.854,9,36.78,0.828
+"335",3,"2016-11-21","OAK","Home","HOU","W 27-20","Sebastian Janikowski\janikseb01",20,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"336",3,"2016-11-21","OAK","Home","HOU","W 27-20","Sebastian Janikowski\janikseb01",19,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"337",3,"2016-11-21","HOU","Away","OAK","L 20-27","Nick Novak\novaknic01",28,"Y","OAK","Not Dome",0.854,9,36.78,0.828
+"338",3,"2016-11-20","PIT","Away","CLE","W 24-9","Chris Boswell\BoswCh00",33,"Y","CLE","Not Dome",0.84,1,40.64,0.877
+"339",3,"2016-11-20","DAL","Home","BAL","W 27-17","Dan Bailey\BailDa00",21,"Y","DAL","Dome",0.844,5,38.41,0.897
+"340",3,"2016-11-20","TAM","Away","KAN","W 19-17","Roberto Aguayo\AguaRo00",41,"Y","KAN","Not Dome",0.71,0,36.68,0.713
+"341",3,"2016-11-20","TEN","Away","IND","L 17-24","Ryan Succop\SuccRy44",47,"Y","IND","Dome",0.917,7,39.33,0.831
+"342",3,"2016-11-20","IND","Home","TEN","W 24-17","Adam Vinatieri\vinatada01",49,"Y","IND","Dome",0.871,20,43.16,0.842
+"343",3,"2016-11-20","SEA","Home","PHI","W 26-15","Steven Hauschka\HausSt00",44,"N","SEA","Not Dome",0.892,9,34.14,0.868
+"344",3,"2016-11-20","BAL","Away","DAL","L 17-27","Justin Tucker\TuckJu00",46,"Y","DAL","Dome",0.974,4,41.95,0.899
+"345",3,"2016-11-20","BUF","Away","CIN","W 16-12","Dan Carpenter\CarpDa44",54,"Y","CIN","Not Dome",0.76,8,36.16,0.84
+"346",3,"2016-11-20","GNB","Away","WAS","L 24-42","Mason Crosby\CrosMa20",36,"Y","WAS","Not Dome",0.867,9,35.4,0.804
+"347",3,"2016-11-20","LAR","Home","MIA","L 10-14","Greg Zuerlein\ZuerGr00",48,"N","LAR","Not Dome",0.864,4,38.68,0.799
+"348",3,"2016-11-20","DET","Home","JAX","W 26-19","Matt Prater\PratMa20",43,"Y","DET","Dome",0.861,10,40.17,0.831
+"349",3,"2016-11-20","JAX","Away","DET","L 19-26","Jason Myers\MyerJa00",52,"Y","DET","Dome",0.794,1,42.82,0.824
+"350",3,"2016-11-20","PIT","Away","CLE","W 24-9","Chris Boswell\BoswCh00",32,"Y","CLE","Not Dome",0.84,1,40.64,0.877
+"351",3,"2016-11-20","DAL","Home","BAL","W 27-17","Dan Bailey\BailDa00",30,"Y","DAL","Dome",0.844,5,38.41,0.897
+"352",3,"2016-11-20","TAM","Away","KAN","W 19-17","Roberto Aguayo\AguaRo00",22,"Y","KAN","Not Dome",0.71,0,36.68,0.713
+"353",3,"2016-11-20","CLE","Home","PIT","L 9-24","Cody Parkey\ParkCo03",24,"Y","CLE","Not Dome",0.8,2,37.6,0.846
+"354",3,"2016-11-20","IND","Home","TEN","W 24-17","Adam Vinatieri\vinatada01",42,"N","IND","Dome",0.871,20,43.16,0.842
+"355",3,"2016-11-20","CHI","Away","NYG","L 16-22","Connor Barth\barthco01",51,"N","NYG","Not Dome",0.783,7,35.35,0.84
+"356",3,"2016-11-20","SEA","Home","PHI","W 26-15","Steven Hauschka\HausSt00",35,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"357",3,"2016-11-20","BUF","Away","CIN","W 16-12","Dan Carpenter\CarpDa44",26,"Y","CIN","Not Dome",0.76,8,36.16,0.84
+"358",3,"2016-11-20","KAN","Home","TAM","L 17-19","Cairo Santos\SantCa01",22,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"359",3,"2016-11-20","WAS","Home","GNB","W 42-24","Dustin Hopkins\HopkDu00",37,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"360",3,"2016-11-20","LAR","Home","MIA","L 10-14","Greg Zuerlein\ZuerGr00",46,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"361",3,"2016-11-20","DET","Home","JAX","W 26-19","Matt Prater\PratMa20",27,"Y","DET","Dome",0.861,10,40.17,0.831
+"362",3,"2016-11-20","JAX","Away","DET","L 19-26","Jason Myers\MyerJa00",27,"Y","DET","Dome",0.794,1,42.82,0.824
+"363",3,"2016-11-20","SFO","Home","NWE","L 17-30","Phil Dawson\dawsophi01",33,"Y","SFO","Not Dome",0.857,18,40.33,0.844
+"364",3,"2016-11-20","PIT","Away","CLE","W 24-9","Chris Boswell\BoswCh00",22,"Y","CLE","Not Dome",0.84,1,40.64,0.877
+"365",3,"2016-11-20","TAM","Away","KAN","W 19-17","Roberto Aguayo\AguaRo00",36,"Y","KAN","Not Dome",0.71,0,36.68,0.713
+"366",3,"2016-11-20","ARI","Away","MIN","L 24-30","Chandler Catanzaro\CataCh00",34,"Y","MIN","Dome",0.75,2,39.07,0.851
+"367",3,"2016-11-20","BUF","Away","CIN","W 16-12","Dan Carpenter\CarpDa44",20,"Y","CIN","Not Dome",0.76,8,36.16,0.84
+"368",3,"2016-11-20","TAM","Away","KAN","W 19-17","Roberto Aguayo\AguaRo00",31,"Y","KAN","Not Dome",0.71,0,36.68,0.713
+"369",3,"2016-11-20","GNB","Away","WAS","L 24-42","Mason Crosby\CrosMa20",36,"N","WAS","Not Dome",0.867,9,35.4,0.804
+"370",3,"2016-11-20","NWE","Away","SFO","W 30-17","Stephen Gostkowski\GostSt20",38,"Y","SFO","Not Dome",0.844,10,37.16,0.871
+"371",3,"2016-11-20","CHI","Away","NYG","L 16-22","Connor Barth\barthco01",40,"Y","NYG","Not Dome",0.783,7,35.35,0.84
+"372",3,"2016-11-20","SEA","Home","PHI","W 26-15","Steven Hauschka\HausSt00",21,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"373",3,"2016-11-17","NOR","Away","CAR","L 20-23","Wil Lutz\LutzWi00",27,"Y","CAR","Not Dome",0.824,0,37.53,0.842
+"374",3,"2016-11-17","CAR","Home","NOR","W 23-20","Graham Gano\GanoGr44",49,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"375",3,"2016-11-17","NOR","Away","CAR","L 20-23","Wil Lutz\LutzWi00",30,"Y","CAR","Not Dome",0.824,0,37.53,0.842
+"376",3,"2016-11-17","CAR","Home","NOR","W 23-20","Graham Gano\GanoGr44",32,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"378",3,"2016-11-17","CAR","Home","NOR","W 23-20","Graham Gano\GanoGr44",42,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"379",3,"2016-11-14","CIN","Away","NYG","L 20-21","Mike Nugent\nugenmik01",38,"Y","NYG","Not Dome",0.793,12,35.17,0.808
+"380",3,"2016-11-14","CIN","Away","NYG","L 20-21","Mike Nugent\nugenmik01",25,"Y","NYG","Not Dome",0.793,12,35.17,0.808
+"381",3,"2016-11-13","DEN","Away","NOR","W 25-23","Brandon McManus\McMaBr01",50,"Y","NOR","Dome",0.853,2,37.88,0.821
+"382",3,"2016-11-13","WAS","Home","MIN","W 26-20","Dustin Hopkins\HopkDu00",28,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"383",3,"2016-11-13","SEA","Away","NWE","W 31-24","Steven Hauschka\HausSt00",31,"Y","NWE","Not Dome",0.892,9,34.14,0.868
+"384",3,"2016-11-13","LAR","Away","NYJ","W 9-6","Greg Zuerlein\ZuerGr00",34,"Y","NYJ","Not Dome",0.864,4,38.68,0.799
+"385",3,"2016-11-13","PHI","Home","ATL","W 24-15","Caleb Sturgis\SturCa00",29,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"386",3,"2016-11-13","ATL","Away","PHI","L 15-24","Matt Bryant\bryanmat01",46,"Y","PHI","Not Dome",0.919,15,37.3,0.858
+"387",3,"2016-11-13","JAX","Home","HOU","L 21-24","Jason Myers\MyerJa00",44,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"388",3,"2016-11-13","SFO","Away","ARI","L 20-23","Phil Dawson\dawsophi01",53,"Y","ARI","Dome",0.857,18,40.33,0.844
+"389",3,"2016-11-13","CAR","Home","KAN","L 17-20","Graham Gano\GanoGr44",42,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"390",3,"2016-11-13","KAN","Away","CAR","W 20-17","Cairo Santos\SantCa01",47,"Y","CAR","Not Dome",0.886,2,35.63,0.843
+"391",3,"2016-11-13","HOU","Away","JAX","W 24-21","Nick Novak\novaknic01",49,"N","JAX","Not Dome",0.854,9,36.78,0.828
+"392",3,"2016-11-13","WAS","Home","MIN","W 26-20","Dustin Hopkins\HopkDu00",30,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"393",3,"2016-11-13","ATL","Away","PHI","L 15-24","Matt Bryant\bryanmat01",38,"Y","PHI","Not Dome",0.919,15,37.3,0.858
+"394",3,"2016-11-13","ARI","Home","SFO","W 23-20","Chandler Catanzaro\CataCh00",34,"Y","ARI","Dome",0.75,2,39.07,0.851
+"395",3,"2016-11-13","PIT","Home","DAL","L 30-35","Chris Boswell\BoswCh00",55,"N","PIT","Not Dome",0.84,1,40.64,0.877
+"396",3,"2016-11-13","DAL","Away","PIT","W 35-30","Dan Bailey\BailDa00",53,"Y","PIT","Not Dome",0.844,5,38.41,0.897
+"397",3,"2016-11-13","TAM","Home","CHI","W 36-10","Roberto Aguayo\AguaRo00",27,"Y","TAM","Not Dome",0.71,0,36.68,0.713
+"398",3,"2016-11-13","NWE","Home","SEA","L 24-31","Stephen Gostkowski\GostSt20",30,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"399",3,"2016-11-13","DEN","Away","NOR","W 25-23","Brandon McManus\McMaBr01",28,"Y","NOR","Dome",0.853,2,37.88,0.821
+"400",3,"2016-11-13","CHI","Away","TAM","L 10-36","Connor Barth\barthco01",54,"Y","TAM","Not Dome",0.783,7,35.35,0.84
+"401",3,"2016-11-13","SEA","Away","NWE","W 31-24","Steven Hauschka\HausSt00",23,"Y","NWE","Not Dome",0.892,9,34.14,0.868
+"402",3,"2016-11-13","PHI","Home","ATL","W 24-15","Caleb Sturgis\SturCa00",55,"N","PHI","Not Dome",0.854,3,37.63,0.81
+"403",3,"2016-11-13","KAN","Away","CAR","W 20-17","Cairo Santos\SantCa01",33,"Y","CAR","Not Dome",0.886,2,35.63,0.843
+"404",3,"2016-11-13","HOU","Away","JAX","W 24-21","Nick Novak\novaknic01",51,"Y","JAX","Not Dome",0.854,9,36.78,0.828
+"405",3,"2016-11-13","WAS","Home","MIN","W 26-20","Dustin Hopkins\HopkDu00",50,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"406",3,"2016-11-13","SEA","Away","NWE","W 31-24","Steven Hauschka\HausSt00",27,"Y","NWE","Not Dome",0.892,9,34.14,0.868
+"407",3,"2016-11-13","LAR","Away","NYJ","W 9-6","Greg Zuerlein\ZuerGr00",38,"Y","NYJ","Not Dome",0.864,4,38.68,0.799
+"408",3,"2016-11-13","PHI","Home","ATL","W 24-15","Caleb Sturgis\SturCa00",44,"N","PHI","Not Dome",0.854,3,37.63,0.81
+"409",3,"2016-11-13","ATL","Away","PHI","L 15-24","Matt Bryant\bryanmat01",53,"N","PHI","Not Dome",0.919,15,37.3,0.858
+"410",3,"2016-11-13","JAX","Home","HOU","L 21-24","Jason Myers\MyerJa00",54,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"411",3,"2016-11-13","SFO","Away","ARI","L 20-23","Phil Dawson\dawsophi01",49,"Y","ARI","Dome",0.857,18,40.33,0.844
+"412",3,"2016-11-13","TEN","Home","GNB","W 47-25","Ryan Succop\SuccRy44",23,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"413",3,"2016-11-13","MIA","Away","SDG","W 31-24","Andrew Franks\FranAn01",27,"Y","SDG","Not Dome",0.762,1,32.86,0.784
+"414",3,"2016-11-13","ARI","Home","SFO","W 23-20","Chandler Catanzaro\CataCh00",19,"Y","ARI","Dome",0.75,2,39.07,0.851
+"415",3,"2016-11-13","PIT","Home","DAL","L 30-35","Chris Boswell\BoswCh00",39,"Y","PIT","Not Dome",0.84,1,40.64,0.877
+"416",3,"2016-11-13","DAL","Away","PIT","W 35-30","Dan Bailey\BailDa00",37,"Y","PIT","Not Dome",0.844,5,38.41,0.897
+"417",3,"2016-11-13","NOR","Home","DEN","L 23-25","Wil Lutz\LutzWi00",30,"Y","NOR","Dome",0.824,0,37.53,0.842
+"418",3,"2016-11-13","TAM","Home","CHI","W 36-10","Roberto Aguayo\AguaRo00",30,"Y","TAM","Not Dome",0.71,0,36.68,0.713
+"419",3,"2016-11-13","GNB","Away","TEN","L 25-47","Mason Crosby\CrosMa20",38,"Y","TEN","Not Dome",0.867,9,35.4,0.804
+"420",3,"2016-11-13","SDG","Home","MIA","L 24-31","Josh Lambo\LambJo00",45,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"421",3,"2016-11-13","DEN","Away","NOR","W 25-23","Brandon McManus\McMaBr01",42,"N","NOR","Dome",0.853,2,37.88,0.821
+"422",3,"2016-11-13","SEA","Away","NWE","W 31-24","Steven Hauschka\HausSt00",41,"Y","NWE","Not Dome",0.892,9,34.14,0.868
+"423",3,"2016-11-13","PHI","Home","ATL","W 24-15","Caleb Sturgis\SturCa00",25,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"424",3,"2016-11-13","KAN","Away","CAR","W 20-17","Cairo Santos\SantCa01",36,"Y","CAR","Not Dome",0.886,2,35.63,0.843
+"425",3,"2016-11-13","HOU","Away","JAX","W 24-21","Nick Novak\novaknic01",50,"N","JAX","Not Dome",0.854,9,36.78,0.828
+"426",3,"2016-11-13","WAS","Home","MIN","W 26-20","Dustin Hopkins\HopkDu00",37,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"427",3,"2016-11-13","LAR","Away","NYJ","W 9-6","Greg Zuerlein\ZuerGr00",20,"Y","NYJ","Not Dome",0.864,4,38.68,0.799
+"428",3,"2016-11-13","ATL","Away","PHI","L 15-24","Matt Bryant\bryanmat01",43,"Y","PHI","Not Dome",0.919,15,37.3,0.858
+"429",3,"2016-11-13","PIT","Home","DAL","L 30-35","Chris Boswell\BoswCh00",25,"Y","PIT","Not Dome",0.84,1,40.64,0.877
+"430",3,"2016-11-13","DAL","Away","PIT","W 35-30","Dan Bailey\BailDa00",46,"Y","PIT","Not Dome",0.844,5,38.41,0.897
+"431",3,"2016-11-13","TEN","Home","GNB","W 47-25","Ryan Succop\SuccRy44",51,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"432",3,"2016-11-13","DEN","Away","NOR","W 25-23","Brandon McManus\McMaBr01",37,"Y","NOR","Dome",0.853,2,37.88,0.821
+"433",3,"2016-11-13","PHI","Home","ATL","W 24-15","Caleb Sturgis\SturCa00",48,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"434",3,"2016-11-13","ARI","Home","SFO","W 23-20","Chandler Catanzaro\CataCh00",39,"Y","ARI","Dome",0.75,2,39.07,0.851
+"435",3,"2016-11-13","GNB","Away","TEN","L 25-47","Mason Crosby\CrosMa20",29,"Y","TEN","Not Dome",0.867,9,35.4,0.804
+"436",3,"2016-11-13","KAN","Away","CAR","W 20-17","Cairo Santos\SantCa01",37,"Y","CAR","Not Dome",0.886,2,35.63,0.843
+"437",3,"2016-11-10","BAL","Home","CLE","W 28-7","Justin Tucker\TuckJu00",40,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"438",3,"2016-11-10","BAL","Home","CLE","W 28-7","Justin Tucker\TuckJu00",25,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"439",3,"2016-11-07","BUF","Away","SEA","L 25-31","Dan Carpenter\CarpDa44",31,"Y","SEA","Not Dome",0.76,8,36.16,0.84
+"440",3,"2016-11-07","SEA","Home","BUF","W 31-25","Steven Hauschka\HausSt00",49,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"441",3,"2016-11-07","BUF","Away","SEA","L 25-31","Dan Carpenter\CarpDa44",54,"N","SEA","Not Dome",0.76,8,36.16,0.84
+"442",3,"2016-11-06","DET","Away","MIN","W 22-16","Matt Prater\PratMa20",58,"Y","MIN","Dome",0.861,10,40.17,0.831
+"443",3,"2016-11-06","GNB","Home","IND","L 26-31","Mason Crosby\CrosMa20",34,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"444",3,"2016-11-06","OAK","Home","DEN","W 30-20","Sebastian Janikowski\janikseb01",24,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"445",3,"2016-11-06","LAR","Home","CAR","L 10-13","Greg Zuerlein\ZuerGr00",25,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"446",3,"2016-11-06","PHI","Away","NYG","L 23-28","Caleb Sturgis\SturCa00",26,"Y","NYG","Not Dome",0.854,3,37.63,0.81
+"447",3,"2016-11-06","SFO","Home","NOR","L 23-41","Phil Dawson\dawsophi01",48,"Y","SFO","Not Dome",0.857,18,40.33,0.844
+"448",3,"2016-11-06","CLE","Home","DAL","L 10-35","Cody Parkey\ParkCo03",31,"Y","CLE","Not Dome",0.8,2,37.6,0.846
+"449",3,"2016-11-06","CAR","Away","LAR","W 13-10","Graham Gano\GanoGr44",48,"N","LAR","Not Dome",0.789,7,40.61,0.8
+"450",3,"2016-11-06","KAN","Home","JAX","W 19-14","Cairo Santos\SantCa01",51,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"451",3,"2016-11-06","MIA","Home","NYJ","W 27-23","Andrew Franks\FranAn01",33,"Y","MIA","Not Dome",0.762,1,32.86,0.784
+"452",3,"2016-11-06","BAL","Home","PIT","W 21-14","Justin Tucker\TuckJu00",42,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"453",3,"2016-11-06","NYJ","Away","MIA","L 23-27","Nick Folk\FolkNi20",21,"Y","MIA","Not Dome",0.871,9,33.97,0.813
+"454",3,"2016-11-06","NOR","Away","SFO","W 41-23","Wil Lutz\LutzWi00",55,"N","SFO","Not Dome",0.824,0,37.53,0.842
+"455",3,"2016-11-06","GNB","Home","IND","L 26-31","Mason Crosby\CrosMa20",27,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"456",3,"2016-11-06","SDG","Home","TEN","W 43-35","Josh Lambo\LambJo00",23,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"457",3,"2016-11-06","OAK","Home","DEN","W 30-20","Sebastian Janikowski\janikseb01",48,"N","OAK","Not Dome",0.829,16,38.54,0.804
+"458",3,"2016-11-06","DEN","Away","OAK","L 20-30","Brandon McManus\McMaBr01",44,"Y","OAK","Not Dome",0.853,2,37.88,0.821
+"459",3,"2016-11-06","DET","Away","MIN","W 22-16","Matt Prater\PratMa20",53,"Y","MIN","Dome",0.861,10,40.17,0.831
+"460",3,"2016-11-06","CAR","Away","LAR","W 13-10","Graham Gano\GanoGr44",37,"Y","LAR","Not Dome",0.789,7,40.61,0.8
+"461",3,"2016-11-06","KAN","Home","JAX","W 19-14","Cairo Santos\SantCa01",36,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"462",3,"2016-11-06","LAR","Home","CAR","L 10-13","Greg Zuerlein\ZuerGr00",55,"N","LAR","Not Dome",0.864,4,38.68,0.799
+"464",3,"2016-11-06","SFO","Home","NOR","L 23-41","Phil Dawson\dawsophi01",49,"Y","SFO","Not Dome",0.857,18,40.33,0.844
+"465",3,"2016-11-06","KAN","Home","JAX","W 19-14","Cairo Santos\SantCa01",26,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"466",3,"2016-11-06","BAL","Home","PIT","W 21-14","Justin Tucker\TuckJu00",49,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"467",3,"2016-11-06","NYJ","Away","MIA","L 23-27","Nick Folk\FolkNi20",23,"Y","MIA","Not Dome",0.871,9,33.97,0.813
+"468",3,"2016-11-06","MIA","Home","NYJ","W 27-23","Andrew Franks\FranAn01",33,"Y","MIA","Not Dome",0.762,1,32.86,0.784
+"469",3,"2016-11-06","KAN","Home","JAX","W 19-14","Cairo Santos\SantCa01",51,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"470",3,"2016-11-06","CAR","Away","LAR","W 13-10","Graham Gano\GanoGr44",48,"N","LAR","Not Dome",0.789,7,40.61,0.8
+"471",3,"2016-11-06","CLE","Home","DAL","L 10-35","Cody Parkey\ParkCo03",31,"Y","CLE","Not Dome",0.8,2,37.6,0.846
+"472",3,"2016-11-06","SFO","Home","NOR","L 23-41","Phil Dawson\dawsophi01",48,"Y","SFO","Not Dome",0.857,18,40.33,0.844
+"473",3,"2016-11-06","PHI","Away","NYG","L 23-28","Caleb Sturgis\SturCa00",26,"Y","NYG","Not Dome",0.854,3,37.63,0.81
+"474",3,"2016-11-06","LAR","Home","CAR","L 10-13","Greg Zuerlein\ZuerGr00",25,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"475",3,"2016-11-06","OAK","Home","DEN","W 30-20","Sebastian Janikowski\janikseb01",24,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"476",3,"2016-11-06","GNB","Home","IND","L 26-31","Mason Crosby\CrosMa20",34,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"477",3,"2016-11-06","DET","Away","MIN","W 22-16","Matt Prater\PratMa20",58,"Y","MIN","Dome",0.861,10,40.17,0.831
+"478",3,"2016-11-03","ATL","Away","TAM","W 43-28","Matt Bryant\bryanmat01",41,"Y","TAM","Not Dome",0.919,15,37.3,0.858
+"479",3,"2016-11-03","ATL","Away","TAM","W 43-28","Matt Bryant\bryanmat01",50,"Y","TAM","Not Dome",0.919,15,37.3,0.858
+"480",3,"2016-11-03","ATL","Away","TAM","W 43-28","Matt Bryant\bryanmat01",29,"Y","TAM","Not Dome",0.919,15,37.3,0.858
+"481",2,"2016-10-31","CHI","Home","MIN","W 20-10","Connor Barth\barthco01",28,"Y","CHI","Not Dome",0.783,7,35.35,0.84
+"482",2,"2016-10-31","CHI","Home","MIN","W 20-10","Connor Barth\barthco01",30,"Y","CHI","Not Dome",0.783,7,35.35,0.84
+"483",2,"2016-10-30","KAN","Away","IND","W 30-14","Cairo Santos\SantCa01",44,"Y","IND","Dome",0.886,2,35.63,0.843
+"484",2,"2016-10-30","CAR","Home","ARI","W 30-20","Graham Gano\GanoGr44",52,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"485",2,"2016-10-30","CLE","Home","NYJ","L 28-31","Cody Parkey\ParkCo03",41,"Y","CLE","Not Dome",0.8,2,37.6,0.846
+"486",2,"2016-10-30","TAM","Home","OAK","L 24-30","Roberto Aguayo\AguaRo00",41,"Y","TAM","Not Dome",0.71,0,36.68,0.713
+"487",2,"2016-10-30","DAL","Home","PHI","W 29-23","Dan Bailey\BailDa00",49,"Y","DAL","Dome",0.844,5,38.41,0.897
+"488",2,"2016-10-30","DET","Away","HOU","L 13-20","Matt Prater\PratMa20",49,"N","HOU","Dome",0.861,10,40.17,0.831
+"489",2,"2016-10-30","WAS","Away","CIN","T 27-27","Dustin Hopkins\HopkDu00",40,"Y","CIN","Not Dome",0.81,2,36.9,0.845
+"490",2,"2016-10-30","HOU","Home","DET","W 20-13","Nick Novak\novaknic01",33,"Y","HOU","Dome",0.854,9,36.78,0.828
+"491",2,"2016-10-30","OAK","Away","TAM","W 30-24","Sebastian Janikowski\janikseb01",50,"N","TAM","Not Dome",0.829,16,38.54,0.804
+"492",2,"2016-10-30","NOR","Home","SEA","W 25-20","Wil Lutz\LutzWi00",53,"Y","NOR","Dome",0.824,0,37.53,0.842
+"493",2,"2016-10-30","NWE","Away","BUF","W 41-25","Stephen Gostkowski\GostSt20",32,"Y","BUF","Not Dome",0.844,10,37.16,0.871
+"494",2,"2016-10-30","KAN","Away","IND","W 30-14","Cairo Santos\SantCa01",28,"N","IND","Dome",0.886,2,35.63,0.843
+"495",2,"2016-10-30","DAL","Home","PHI","W 29-23","Dan Bailey\BailDa00",38,"Y","DAL","Dome",0.844,5,38.41,0.897
+"496",2,"2016-10-30","BUF","Home","NWE","L 25-41","Dan Carpenter\CarpDa44",49,"N","BUF","Not Dome",0.76,8,36.16,0.84
+"497",2,"2016-10-30","ATL","Home","GNB","W 33-32","Matt Bryant\bryanmat01",40,"Y","ATL","Dome",0.919,15,37.3,0.858
+"498",2,"2016-10-30","PHI","Away","DAL","L 23-29","Caleb Sturgis\SturCa00",55,"Y","DAL","Dome",0.854,3,37.63,0.81
+"499",2,"2016-10-30","WAS","Away","CIN","T 27-27","Dustin Hopkins\HopkDu00",20,"Y","CIN","Not Dome",0.81,2,36.9,0.845
+"500",2,"2016-10-30","DEN","Home","SDG","W 27-19","Brandon McManus\McMaBr01",28,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"501",2,"2016-10-30","CAR","Home","ARI","W 30-20","Graham Gano\GanoGr44",21,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"502",2,"2016-10-30","CLE","Home","NYJ","L 28-31","Cody Parkey\ParkCo03",27,"Y","CLE","Not Dome",0.8,2,37.6,0.846
+"503",2,"2016-10-30","DET","Away","HOU","L 13-20","Matt Prater\PratMa20",47,"Y","HOU","Dome",0.861,10,40.17,0.831
+"504",2,"2016-10-30","SEA","Away","NOR","L 20-25","Steven Hauschka\HausSt00",44,"Y","NOR","Dome",0.892,9,34.14,0.868
+"505",2,"2016-10-30","WAS","Away","CIN","T 27-27","Dustin Hopkins\HopkDu00",34,"N","CIN","Not Dome",0.81,2,36.9,0.845
+"506",2,"2016-10-30","HOU","Home","DET","W 20-13","Nick Novak\novaknic01",36,"Y","HOU","Dome",0.854,9,36.78,0.828
+"507",2,"2016-10-30","OAK","Away","TAM","W 30-24","Sebastian Janikowski\janikseb01",52,"N","TAM","Not Dome",0.829,16,38.54,0.804
+"508",2,"2016-10-30","GNB","Away","ATL","L 32-33","Mason Crosby\CrosMa20",29,"Y","ATL","Dome",0.867,9,35.4,0.804
+"509",2,"2016-10-30","NOR","Home","SEA","W 25-20","Wil Lutz\LutzWi00",21,"Y","NOR","Dome",0.824,0,37.53,0.842
+"510",2,"2016-10-30","KAN","Away","IND","W 30-14","Cairo Santos\SantCa01",22,"Y","IND","Dome",0.886,2,35.63,0.843
+"511",2,"2016-10-30","CAR","Home","ARI","W 30-20","Graham Gano\GanoGr44",43,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"512",2,"2016-10-30","DAL","Home","PHI","W 29-23","Dan Bailey\BailDa00",23,"Y","DAL","Dome",0.844,5,38.41,0.897
+"513",2,"2016-10-30","PHI","Away","DAL","L 23-29","Caleb Sturgis\SturCa00",34,"Y","DAL","Dome",0.854,3,37.63,0.81
+"514",2,"2016-10-30","WAS","Away","CIN","T 27-27","Dustin Hopkins\HopkDu00",55,"N","CIN","Not Dome",0.81,2,36.9,0.845
+"515",2,"2016-10-30","OAK","Away","TAM","W 30-24","Sebastian Janikowski\janikseb01",31,"Y","TAM","Not Dome",0.829,16,38.54,0.804
+"516",2,"2016-10-30","NOR","Home","SEA","W 25-20","Wil Lutz\LutzWi00",22,"Y","NOR","Dome",0.824,0,37.53,0.842
+"517",2,"2016-10-30","CIN","Home","WAS","T 27-27","Mike Nugent\nugenmik01",51,"N","CIN","Not Dome",0.793,12,35.17,0.808
+"518",2,"2016-10-30","DET","Away","HOU","L 13-20","Matt Prater\PratMa20",34,"Y","HOU","Dome",0.861,10,40.17,0.831
+"519",2,"2016-10-30","SEA","Away","NOR","L 20-25","Steven Hauschka\HausSt00",21,"Y","NOR","Dome",0.892,9,34.14,0.868
+"520",2,"2016-10-30","DEN","Home","SDG","W 27-19","Brandon McManus\McMaBr01",22,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"521",2,"2016-10-30","NWE","Away","BUF","W 41-25","Stephen Gostkowski\GostSt20",51,"Y","BUF","Not Dome",0.844,10,37.16,0.871
+"522",2,"2016-10-30","SDG","Away","DEN","L 19-27","Josh Lambo\LambJo00",45,"N","DEN","Not Dome",0.813,1,36.38,0.813
+"523",2,"2016-10-30","KAN","Away","IND","W 30-14","Cairo Santos\SantCa01",33,"Y","IND","Dome",0.886,2,35.63,0.843
+"524",2,"2016-10-30","NOR","Home","SEA","W 25-20","Wil Lutz\LutzWi00",41,"Y","NOR","Dome",0.824,0,37.53,0.842
+"525",2,"2016-10-30","NYJ","Away","CLE","W 31-28","Nick Folk\FolkNi20",24,"Y","CLE","Not Dome",0.871,9,33.97,0.813
+"526",2,"2016-10-30","BUF","Home","NWE","L 25-41","Dan Carpenter\CarpDa44",23,"Y","BUF","Not Dome",0.76,8,36.16,0.84
+"527",2,"2016-10-30","ATL","Home","GNB","W 33-32","Matt Bryant\bryanmat01",36,"Y","ATL","Dome",0.919,15,37.3,0.858
+"528",2,"2016-10-30","PHI","Away","DAL","L 23-29","Caleb Sturgis\SturCa00",30,"Y","DAL","Dome",0.854,3,37.63,0.81
+"529",2,"2016-10-27","TEN","Home","JAX","W 36-22","Ryan Succop\SuccRy44",32,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"530",2,"2016-10-27","TEN","Home","JAX","W 36-22","Ryan Succop\SuccRy44",22,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"531",2,"2016-10-27","TEN","Home","JAX","W 36-22","Ryan Succop\SuccRy44",33,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"532",2,"2016-10-24","DEN","Home","HOU","W 27-9","Brandon McManus\McMaBr01",32,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"533",2,"2016-10-24","HOU","Away","DEN","L 9-27","Nick Novak\novaknic01",43,"Y","DEN","Not Dome",0.854,9,36.78,0.828
+"534",2,"2016-10-24","DEN","Home","HOU","W 27-9","Brandon McManus\McMaBr01",22,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"535",2,"2016-10-24","HOU","Away","DEN","L 9-27","Nick Novak\novaknic01",29,"Y","DEN","Not Dome",0.854,9,36.78,0.828
+"536",2,"2016-10-24","HOU","Away","DEN","L 9-27","Nick Novak\novaknic01",43,"Y","DEN","Not Dome",0.854,9,36.78,0.828
+"537",2,"2016-10-23","OAK","Away","JAX","W 33-16","Sebastian Janikowski\janikseb01",44,"Y","JAX","Not Dome",0.829,16,38.54,0.804
+"538",2,"2016-10-23","PIT","Home","NWE","L 16-27","Chris Boswell\BoswCh00",54,"N","PIT","Not Dome",0.84,1,40.64,0.877
+"539",2,"2016-10-23","SFO","Home","TAM","L 17-34","Phil Dawson\dawsophi01",28,"Y","SFO","Not Dome",0.857,18,40.33,0.844
+"540",2,"2016-10-23","CIN","Home","CLE","W 31-17","Mike Nugent\nugenmik01",36,"Y","CIN","Not Dome",0.793,12,35.17,0.808
+"541",2,"2016-10-23","JAX","Home","OAK","L 16-33","Jason Myers\MyerJa00",23,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"542",2,"2016-10-23","SEA","Away","ARI","T 6-6","Steven Hauschka\HausSt00",28,"N","ARI","Dome",0.892,9,34.14,0.868
+"543",2,"2016-10-23","SDG","Away","ATL","W 33-30","Josh Lambo\LambJo00",33,"Y","ATL","Dome",0.813,1,36.38,0.813
+"544",2,"2016-10-23","KAN","Home","NOR","W 27-21","Cairo Santos\SantCa01",39,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"545",2,"2016-10-23","NYJ","Home","BAL","W 24-16","Nick Folk\FolkNi20",22,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"546",2,"2016-10-23","BAL","Away","NYJ","L 16-24","Justin Tucker\TuckJu00",50,"Y","NYJ","Not Dome",0.974,4,41.95,0.899
+"547",2,"2016-10-23","ATL","Home","SDG","L 30-33","Matt Bryant\bryanmat01",31,"Y","ATL","Dome",0.919,15,37.3,0.858
+"548",2,"2016-10-23","PHI","Home","MIN","W 21-10","Caleb Sturgis\SturCa00",35,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"549",2,"2016-10-23","TEN","Home","IND","L 26-34","Ryan Succop\SuccRy44",48,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"550",2,"2016-10-23","OAK","Away","JAX","W 33-16","Sebastian Janikowski\janikseb01",26,"Y","JAX","Not Dome",0.829,16,38.54,0.804
+"551",2,"2016-10-23","TAM","Away","SFO","W 34-17","Roberto Aguayo\AguaRo00",37,"Y","SFO","Not Dome",0.71,0,36.68,0.713
+"552",2,"2016-10-23","PIT","Home","NWE","L 16-27","Chris Boswell\BoswCh00",46,"Y","PIT","Not Dome",0.84,1,40.64,0.877
+"553",2,"2016-10-23","ARI","Home","SEA","T 6-6","Chandler Catanzaro\CataCh00",45,"Y","ARI","Dome",0.75,2,39.07,0.851
+"554",2,"2016-10-23","DET","Home","WAS","W 20-17","Matt Prater\PratMa20",43,"Y","DET","Dome",0.861,10,40.17,0.831
+"555",2,"2016-10-23","SEA","Away","ARI","T 6-6","Steven Hauschka\HausSt00",40,"Y","ARI","Dome",0.892,9,34.14,0.868
+"556",2,"2016-10-23","MIA","Home","BUF","W 28-25","Andrew Franks\FranAn01",33,"Y","MIA","Not Dome",0.762,1,32.86,0.784
+"557",2,"2016-10-23","IND","Away","TEN","W 34-26","Adam Vinatieri\vinatada01",28,"Y","TEN","Not Dome",0.871,20,43.16,0.842
+"558",2,"2016-10-23","OAK","Away","JAX","W 33-16","Sebastian Janikowski\janikseb01",52,"Y","JAX","Not Dome",0.829,16,38.54,0.804
+"559",2,"2016-10-23","SDG","Away","ATL","W 33-30","Josh Lambo\LambJo00",40,"Y","ATL","Dome",0.813,1,36.38,0.813
+"560",2,"2016-10-23","CIN","Home","CLE","W 31-17","Mike Nugent\nugenmik01",45,"N","CIN","Not Dome",0.793,12,35.17,0.808
+"561",2,"2016-10-23","JAX","Home","OAK","L 16-33","Jason Myers\MyerJa00",37,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"562",2,"2016-10-23","ATL","Home","SDG","L 30-33","Matt Bryant\bryanmat01",42,"Y","ATL","Dome",0.919,15,37.3,0.858
+"563",2,"2016-10-23","SDG","Away","ATL","W 33-30","Josh Lambo\LambJo00",42,"Y","ATL","Dome",0.813,1,36.38,0.813
+"564",2,"2016-10-23","KAN","Home","NOR","W 27-21","Cairo Santos\SantCa01",41,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"566",2,"2016-10-23","BUF","Away","MIA","L 25-28","Dan Carpenter\CarpDa44",29,"Y","MIA","Not Dome",0.76,8,36.16,0.84
+"567",2,"2016-10-23","PIT","Home","NWE","L 16-27","Chris Boswell\BoswCh00",42,"N","PIT","Not Dome",0.84,1,40.64,0.877
+"568",2,"2016-10-23","BAL","Away","NYJ","L 16-24","Justin Tucker\TuckJu00",49,"Y","NYJ","Not Dome",0.974,4,41.95,0.899
+"570",2,"2016-10-23","ATL","Home","SDG","L 30-33","Matt Bryant\bryanmat01",58,"N","ATL","Dome",0.919,15,37.3,0.858
+"571",2,"2016-10-23","PHI","Home","MIN","W 21-10","Caleb Sturgis\SturCa00",21,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"572",2,"2016-10-23","WAS","Away","DET","L 17-20","Dustin Hopkins\HopkDu00",45,"N","DET","Dome",0.81,2,36.9,0.845
+"573",2,"2016-10-23","TEN","Home","IND","L 26-34","Ryan Succop\SuccRy44",44,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"574",2,"2016-10-23","OAK","Away","JAX","W 33-16","Sebastian Janikowski\janikseb01",32,"Y","JAX","Not Dome",0.829,16,38.54,0.804
+"575",2,"2016-10-23","CLE","Away","CIN","L 17-31","Cody Parkey\ParkCo03",28,"Y","CIN","Not Dome",0.8,2,37.6,0.846
+"576",2,"2016-10-23","TAM","Away","SFO","W 34-17","Roberto Aguayo\AguaRo00",50,"N","SFO","Not Dome",0.71,0,36.68,0.713
+"577",2,"2016-10-23","PIT","Home","NWE","L 16-27","Chris Boswell\BoswCh00",44,"Y","PIT","Not Dome",0.84,1,40.64,0.877
+"578",2,"2016-10-23","CIN","Home","CLE","W 31-17","Mike Nugent\nugenmik01",40,"N","CIN","Not Dome",0.793,12,35.17,0.808
+"579",2,"2016-10-23","ARI","Home","SEA","T 6-6","Chandler Catanzaro\CataCh00",24,"N","ARI","Dome",0.75,2,39.07,0.851
+"580",2,"2016-10-23","DET","Home","WAS","W 20-17","Matt Prater\PratMa20",27,"Y","DET","Dome",0.861,10,40.17,0.831
+"581",2,"2016-10-23","LAR","Home","NYG","L 10-17","Greg Zuerlein\ZuerGr00",36,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"582",2,"2016-10-23","SEA","Away","ARI","T 6-6","Steven Hauschka\HausSt00",36,"Y","ARI","Dome",0.892,9,34.14,0.868
+"583",2,"2016-10-23","IND","Away","TEN","W 34-26","Adam Vinatieri\vinatada01",33,"Y","TEN","Not Dome",0.871,20,43.16,0.842
+"584",2,"2016-10-23","SDG","Away","ATL","W 33-30","Josh Lambo\LambJo00",37,"Y","ATL","Dome",0.813,1,36.38,0.813
+"585",2,"2016-10-23","JAX","Home","OAK","L 16-33","Jason Myers\MyerJa00",44,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"586",2,"2016-10-23","ATL","Home","SDG","L 30-33","Matt Bryant\bryanmat01",27,"Y","ATL","Dome",0.919,15,37.3,0.858
+"587",2,"2016-10-23","TAM","Away","SFO","W 34-17","Roberto Aguayo\AguaRo00",38,"Y","SFO","Not Dome",0.71,0,36.68,0.713
+"588",2,"2016-10-23","PIT","Home","NWE","L 16-27","Chris Boswell\BoswCh00",32,"Y","PIT","Not Dome",0.84,1,40.64,0.877
+"589",2,"2016-10-23","BAL","Away","NYJ","L 16-24","Justin Tucker\TuckJu00",44,"Y","NYJ","Not Dome",0.974,4,41.95,0.899
+"590",2,"2016-10-23","ARI","Home","SEA","T 6-6","Chandler Catanzaro\CataCh00",46,"Y","ARI","Dome",0.75,2,39.07,0.851
+"591",2,"2016-10-23","DET","Home","WAS","W 20-17","Matt Prater\PratMa20",49,"N","DET","Dome",0.861,10,40.17,0.831
+"592",2,"2016-10-23","WAS","Away","DET","L 17-20","Dustin Hopkins\HopkDu00",38,"Y","DET","Dome",0.81,2,36.9,0.845
+"593",2,"2016-10-23","MIA","Home","BUF","W 28-25","Andrew Franks\FranAn01",36,"Y","MIA","Not Dome",0.762,1,32.86,0.784
+"595",2,"2016-10-20","GNB","Home","CHI","W 26-10","Mason Crosby\CrosMa20",32,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"596",2,"2016-10-20","CHI","Away","GNB","L 10-26","Connor Barth\barthco01",39,"Y","GNB","Not Dome",0.783,7,35.35,0.84
+"597",2,"2016-10-20","GNB","Home","CHI","W 26-10","Mason Crosby\CrosMa20",40,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"598",2,"2016-10-17","NYJ","Away","ARI","L 3-28","Nick Folk\FolkNi20",39,"Y","ARI","Dome",0.871,9,33.97,0.813
+"599",2,"2016-10-16","KAN","Away","OAK","W 26-10","Cairo Santos\SantCa01",38,"N","OAK","Not Dome",0.886,2,35.63,0.843
+"600",2,"2016-10-16","GNB","Home","DAL","L 16-30","Mason Crosby\CrosMa20",34,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"601",2,"2016-10-16","NOR","Home","CAR","W 41-38","Wil Lutz\LutzWi00",33,"Y","NOR","Dome",0.824,0,37.53,0.842
+"602",2,"2016-10-16","BAL","Away","NYG","L 23-27","Justin Tucker\TuckJu00",23,"Y","NYG","Not Dome",0.974,4,41.95,0.899
+"603",2,"2016-10-16","ATL","Away","SEA","L 24-26","Matt Bryant\bryanmat01",33,"Y","SEA","Not Dome",0.919,15,37.3,0.858
+"604",2,"2016-10-16","MIA","Home","PIT","W 30-15","Andrew Franks\FranAn01",30,"Y","MIA","Not Dome",0.762,1,32.86,0.784
+"605",2,"2016-10-16","HOU","Home","IND","W 26-23","Nick Novak\novaknic01",27,"Y","HOU","Dome",0.854,9,36.78,0.828
+"606",2,"2016-10-16","NWE","Home","CIN","W 35-17","Stephen Gostkowski\GostSt20",46,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"607",2,"2016-10-16","DAL","Away","GNB","W 30-16","Dan Bailey\BailDa00",44,"Y","GNB","Not Dome",0.844,5,38.41,0.897
+"608",2,"2016-10-16","BUF","Home","SFO","W 45-16","Dan Carpenter\CarpDa44",40,"Y","BUF","Not Dome",0.76,8,36.16,0.84
+"609",2,"2016-10-16","CHI","Home","JAX","L 16-17","Connor Barth\barthco01",32,"Y","CHI","Not Dome",0.783,7,35.35,0.84
+"610",2,"2016-10-16","SEA","Home","ATL","W 26-24","Steven Hauschka\HausSt00",42,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"611",2,"2016-10-16","WAS","Home","PHI","W 27-20","Dustin Hopkins\HopkDu00",50,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"613",2,"2016-10-16","IND","Away","HOU","L 23-26","Adam Vinatieri\vinatada01",41,"Y","HOU","Dome",0.871,20,43.16,0.842
+"614",2,"2016-10-16","CAR","Away","NOR","L 38-41","Graham Gano\GanoGr44",42,"Y","NOR","Dome",0.789,7,40.61,0.8
+"615",2,"2016-10-16","CLE","Away","TEN","L 26-28","Cody Parkey\ParkCo03",37,"Y","TEN","Not Dome",0.8,2,37.6,0.846
+"616",2,"2016-10-16","GNB","Home","DAL","L 16-30","Mason Crosby\CrosMa20",37,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"617",2,"2016-10-16","SFO","Away","BUF","L 16-45","Phil Dawson\dawsophi01",48,"Y","BUF","Not Dome",0.857,18,40.33,0.844
+"618",2,"2016-10-16","CIN","Away","NWE","L 17-35","Mike Nugent\nugenmik01",25,"Y","NWE","Not Dome",0.793,12,35.17,0.808
+"619",2,"2016-10-16","KAN","Away","OAK","W 26-10","Cairo Santos\SantCa01",22,"Y","OAK","Not Dome",0.886,2,35.63,0.843
+"620",2,"2016-10-16","NOR","Home","CAR","W 41-38","Wil Lutz\LutzWi00",52,"Y","NOR","Dome",0.824,0,37.53,0.842
+"621",2,"2016-10-16","BAL","Away","NYG","L 23-27","Justin Tucker\TuckJu00",39,"Y","NYG","Not Dome",0.974,4,41.95,0.899
+"622",2,"2016-10-16","CHI","Home","JAX","L 16-17","Connor Barth\barthco01",36,"Y","CHI","Not Dome",0.783,7,35.35,0.84
+"623",2,"2016-10-16","PHI","Away","WAS","L 20-27","Caleb Sturgis\SturCa00",38,"Y","WAS","Not Dome",0.854,3,37.63,0.81
+"624",2,"2016-10-16","MIA","Home","PIT","W 30-15","Andrew Franks\FranAn01",23,"Y","MIA","Not Dome",0.762,1,32.86,0.784
+"625",2,"2016-10-16","NWE","Home","CIN","W 35-17","Stephen Gostkowski\GostSt20",31,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"626",2,"2016-10-16","OAK","Home","KAN","L 10-26","Sebastian Janikowski\janikseb01",52,"N","OAK","Not Dome",0.829,16,38.54,0.804
+"627",2,"2016-10-16","DAL","Away","GNB","W 30-16","Dan Bailey\BailDa00",22,"Y","GNB","Not Dome",0.844,5,38.41,0.897
+"628",2,"2016-10-16","DET","Home","LAR","W 31-28","Matt Prater\PratMa20",34,"Y","DET","Dome",0.861,10,40.17,0.831
+"629",2,"2016-10-16","SEA","Home","ATL","W 26-24","Steven Hauschka\HausSt00",29,"N","SEA","Not Dome",0.892,9,34.14,0.868
+"630",2,"2016-10-16","MIA","Home","PIT","W 30-15","Andrew Franks\FranAn01",50,"N","MIA","Not Dome",0.762,1,32.86,0.784
+"631",2,"2016-10-16","IND","Away","HOU","L 23-26","Adam Vinatieri\vinatada01",37,"Y","HOU","Dome",0.871,20,43.16,0.842
+"632",2,"2016-10-16","HOU","Home","IND","W 26-23","Nick Novak\novaknic01",33,"Y","HOU","Dome",0.854,9,36.78,0.828
+"633",2,"2016-10-16","GNB","Home","DAL","L 16-30","Mason Crosby\CrosMa20",43,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"634",2,"2016-10-16","NOR","Home","CAR","W 41-38","Wil Lutz\LutzWi00",53,"N","NOR","Dome",0.824,0,37.53,0.842
+"635",2,"2016-10-16","SFO","Away","BUF","L 16-45","Phil Dawson\dawsophi01",47,"Y","BUF","Not Dome",0.857,18,40.33,0.844
+"636",2,"2016-10-16","JAX","Away","CHI","W 17-16","Jason Myers\MyerJa00",30,"Y","CHI","Not Dome",0.794,1,42.82,0.824
+"637",2,"2016-10-16","KAN","Away","OAK","W 26-10","Cairo Santos\SantCa01",44,"Y","OAK","Not Dome",0.886,2,35.63,0.843
+"638",2,"2016-10-16","BAL","Away","NYG","L 23-27","Justin Tucker\TuckJu00",35,"Y","NYG","Not Dome",0.974,4,41.95,0.899
+"639",2,"2016-10-16","CHI","Home","JAX","L 16-17","Connor Barth\barthco01",24,"Y","CHI","Not Dome",0.783,7,35.35,0.84
+"640",2,"2016-10-16","PHI","Away","WAS","L 20-27","Caleb Sturgis\SturCa00",28,"Y","WAS","Not Dome",0.854,3,37.63,0.81
+"641",2,"2016-10-16","WAS","Home","PHI","W 27-20","Dustin Hopkins\HopkDu00",32,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"642",2,"2016-10-16","MIA","Home","PIT","W 30-15","Andrew Franks\FranAn01",30,"Y","MIA","Not Dome",0.762,1,32.86,0.784
+"643",2,"2016-10-16","TEN","Home","CLE","W 28-26","Ryan Succop\SuccRy44",58,"N","TEN","Not Dome",0.917,7,39.33,0.831
+"644",2,"2016-10-16","OAK","Home","KAN","L 10-26","Sebastian Janikowski\janikseb01",46,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"645",2,"2016-10-16","CLE","Away","TEN","L 26-28","Cody Parkey\ParkCo03",45,"Y","TEN","Not Dome",0.8,2,37.6,0.846
+"646",2,"2016-10-16","DAL","Away","GNB","W 30-16","Dan Bailey\BailDa00",32,"Y","GNB","Not Dome",0.844,5,38.41,0.897
+"647",2,"2016-10-16","SFO","Away","BUF","L 16-45","Phil Dawson\dawsophi01",33,"Y","BUF","Not Dome",0.857,18,40.33,0.844
+"648",2,"2016-10-16","SEA","Home","ATL","W 26-24","Steven Hauschka\HausSt00",44,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"649",2,"2016-10-16","IND","Away","HOU","L 23-26","Adam Vinatieri\vinatada01",36,"Y","HOU","Dome",0.871,20,43.16,0.842
+"650",2,"2016-10-13","SDG","Home","DEN","W 21-13","Josh Lambo\LambJo00",32,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"651",2,"2016-10-13","DEN","Away","SDG","L 13-21","Brandon McManus\McMaBr01",46,"Y","SDG","Not Dome",0.853,2,37.88,0.821
+"652",2,"2016-10-13","SDG","Home","DEN","W 21-13","Josh Lambo\LambJo00",21,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"653",2,"2016-10-13","DEN","Away","SDG","L 13-21","Brandon McManus\McMaBr01",29,"Y","SDG","Not Dome",0.853,2,37.88,0.821
+"654",2,"2016-10-13","SDG","Home","DEN","W 21-13","Josh Lambo\LambJo00",31,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"655",2,"2016-10-13","DEN","Away","SDG","L 13-21","Brandon McManus\McMaBr01",56,"N","SDG","Not Dome",0.853,2,37.88,0.821
+"656",2,"2016-10-13","SDG","Home","DEN","W 21-13","Josh Lambo\LambJo00",37,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"657",2,"2016-10-10","TAM","Away","CAR","W 17-14","Roberto Aguayo\AguaRo00",35,"Y","CAR","Not Dome",0.71,0,36.68,0.713
+"658",2,"2016-10-10","TAM","Away","CAR","W 17-14","Roberto Aguayo\AguaRo00",46,"N","CAR","Not Dome",0.71,0,36.68,0.713
+"659",2,"2016-10-10","TAM","Away","CAR","W 17-14","Roberto Aguayo\AguaRo00",33,"N","CAR","Not Dome",0.71,0,36.68,0.713
+"660",2,"2016-10-10","TAM","Away","CAR","W 17-14","Roberto Aguayo\AguaRo00",38,"Y","CAR","Not Dome",0.71,0,36.68,0.713
+"661",2,"2016-10-10","TAM","Away","CAR","W 17-14","Roberto Aguayo\AguaRo00",35,"Y","CAR","Not Dome",0.71,0,36.68,0.713
+"662",2,"2016-10-10","CAR","Home","TAM","L 14-17","Graham Gano\GanoGr44",43,"N","CAR","Not Dome",0.789,7,40.61,0.8
+"663",2,"2016-10-09","IND","Home","CHI","W 29-23","Adam Vinatieri\vinatada01",26,"Y","IND","Dome",0.871,20,43.16,0.842
+"664",2,"2016-10-09","HOU","Away","MIN","L 13-31","Nick Novak\novaknic01",51,"N","MIN","Dome",0.854,9,36.78,0.828
+"665",2,"2016-10-09","OAK","Home","SDG","W 34-31","Sebastian Janikowski\janikseb01",50,"N","OAK","Not Dome",0.829,16,38.54,0.804
+"666",2,"2016-10-09","NYJ","Away","PIT","L 13-31","Nick Folk\FolkNi20",35,"Y","PIT","Not Dome",0.871,9,33.97,0.813
+"667",2,"2016-10-09","CHI","Away","IND","L 23-29","Connor Barth\barthco01",24,"Y","IND","Dome",0.783,7,35.35,0.84
+"668",2,"2016-10-09","PHI","Away","DET","L 23-24","Caleb Sturgis\SturCa00",49,"Y","DET","Dome",0.854,3,37.63,0.81
+"669",2,"2016-10-09","WAS","Away","BAL","W 16-10","Dustin Hopkins\HopkDu00",56,"N","BAL","Not Dome",0.81,2,36.9,0.845
+"670",2,"2016-10-09","DEN","Home","ATL","L 16-23","Brandon McManus\McMaBr01",45,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"671",2,"2016-10-09","OAK","Home","SDG","W 34-31","Sebastian Janikowski\janikseb01",48,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"672",2,"2016-10-09","GNB","Home","NYG","W 23-16","Mason Crosby\CrosMa20",44,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"673",2,"2016-10-09","PIT","Home","NYJ","W 31-13","Chris Boswell\BoswCh00",47,"Y","PIT","Not Dome",0.84,1,40.64,0.877
+"674",2,"2016-10-09","DET","Home","PHI","W 24-23","Matt Prater\PratMa20",29,"Y","DET","Dome",0.861,10,40.17,0.831
+"675",2,"2016-10-09","LAR","Home","BUF","L 19-30","Greg Zuerlein\ZuerGr00",37,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"676",2,"2016-10-09","IND","Home","CHI","W 29-23","Adam Vinatieri\vinatada01",54,"Y","IND","Dome",0.871,20,43.16,0.842
+"677",2,"2016-10-09","LAR","Home","BUF","L 19-30","Greg Zuerlein\ZuerGr00",22,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"678",2,"2016-10-09","ATL","Away","DEN","W 23-16","Matt Bryant\bryanmat01",33,"Y","DEN","Not Dome",0.919,15,37.3,0.858
+"679",2,"2016-10-09","CHI","Away","IND","L 23-29","Connor Barth\barthco01",49,"Y","IND","Dome",0.783,7,35.35,0.84
+"680",2,"2016-10-09","PHI","Away","DET","L 23-24","Caleb Sturgis\SturCa00",50,"Y","DET","Dome",0.854,3,37.63,0.81
+"681",2,"2016-10-09","HOU","Away","MIN","L 13-31","Nick Novak\novaknic01",38,"Y","MIN","Dome",0.854,9,36.78,0.828
+"682",2,"2016-10-09","NWE","Away","CLE","W 33-13","Stephen Gostkowski\GostSt20",50,"N","CLE","Not Dome",0.844,10,37.16,0.871
+"683",2,"2016-10-09","DEN","Home","ATL","L 16-23","Brandon McManus\McMaBr01",35,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"684",2,"2016-10-09","OAK","Home","SDG","W 34-31","Sebastian Janikowski\janikseb01",26,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"685",2,"2016-10-09","NYJ","Away","PIT","L 13-31","Nick Folk\FolkNi20",48,"Y","PIT","Not Dome",0.871,9,33.97,0.813
+"686",2,"2016-10-09","WAS","Away","BAL","W 16-10","Dustin Hopkins\HopkDu00",27,"Y","BAL","Not Dome",0.81,2,36.9,0.845
+"687",2,"2016-10-09","IND","Home","CHI","W 29-23","Adam Vinatieri\vinatada01",41,"Y","IND","Dome",0.871,20,43.16,0.842
+"688",2,"2016-10-09","TEN","Away","MIA","W 30-17","Ryan Succop\SuccRy44",40,"Y","MIA","Not Dome",0.917,7,39.33,0.831
+"689",2,"2016-10-09","SDG","Away","OAK","L 31-34","Josh Lambo\LambJo00",36,"Y","OAK","Not Dome",0.813,1,36.38,0.813
+"690",2,"2016-10-09","GNB","Home","NYG","W 23-16","Mason Crosby\CrosMa20",33,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"691",2,"2016-10-09","LAR","Home","BUF","L 19-30","Greg Zuerlein\ZuerGr00",32,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"692",2,"2016-10-09","IND","Home","CHI","W 29-23","Adam Vinatieri\vinatada01",53,"Y","IND","Dome",0.871,20,43.16,0.842
+"693",2,"2016-10-09","OAK","Home","SDG","W 34-31","Sebastian Janikowski\janikseb01",20,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"694",2,"2016-10-09","BAL","Home","WAS","L 10-16","Justin Tucker\TuckJu00",31,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"695",2,"2016-10-09","ATL","Away","DEN","W 23-16","Matt Bryant\bryanmat01",25,"Y","DEN","Not Dome",0.919,15,37.3,0.858
+"696",2,"2016-10-09","CHI","Away","IND","L 23-29","Connor Barth\barthco01",49,"N","IND","Dome",0.783,7,35.35,0.84
+"697",2,"2016-10-09","PHI","Away","DET","L 23-24","Caleb Sturgis\SturCa00",33,"Y","DET","Dome",0.854,3,37.63,0.81
+"698",2,"2016-10-09","MIA","Home","TEN","L 17-30","Andrew Franks\FranAn01",24,"Y","MIA","Not Dome",0.762,1,32.86,0.784
+"699",2,"2016-10-09","HOU","Away","MIN","L 13-31","Nick Novak\novaknic01",30,"Y","MIN","Dome",0.854,9,36.78,0.828
+"700",2,"2016-10-09","NWE","Away","CLE","W 33-13","Stephen Gostkowski\GostSt20",31,"Y","CLE","Not Dome",0.844,10,37.16,0.871
+"701",2,"2016-10-09","DEN","Home","ATL","L 16-23","Brandon McManus\McMaBr01",46,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"702",2,"2016-10-09","OAK","Home","SDG","W 34-31","Sebastian Janikowski\janikseb01",56,"Y","OAK","Not Dome",0.829,16,38.54,0.804
+"703",2,"2016-10-09","BUF","Away","LAR","W 30-19","Dan Carpenter\CarpDa44",23,"Y","LAR","Not Dome",0.76,8,36.16,0.84
+"704",2,"2016-10-09","IND","Home","CHI","W 29-23","Adam Vinatieri\vinatada01",46,"Y","IND","Dome",0.871,20,43.16,0.842
+"705",2,"2016-10-09","GNB","Home","NYG","W 23-16","Mason Crosby\CrosMa20",25,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"706",2,"2016-10-09","CIN","Away","DAL","L 14-28","Mike Nugent\nugenmik01",50,"N","DAL","Dome",0.793,12,35.17,0.808
+"707",2,"2016-10-09","LAR","Home","BUF","L 19-30","Greg Zuerlein\ZuerGr00",54,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"708",2,"2016-10-09","ATL","Away","DEN","W 23-16","Matt Bryant\bryanmat01",46,"Y","DEN","Not Dome",0.919,15,37.3,0.858
+"709",2,"2016-10-09","CHI","Away","IND","L 23-29","Connor Barth\barthco01",35,"Y","IND","Dome",0.783,7,35.35,0.84
+"710",2,"2016-10-06","ARI","Away","SFO","W 33-21","Chandler Catanzaro\CataCh00",36,"Y","SFO","Not Dome",0.75,2,39.07,0.851
+"712",2,"2016-10-02","NWE","Home","BUF","L 0-16","Stephen Gostkowski\GostSt20",48,"N","NWE","Not Dome",0.844,10,37.16,0.871
+"713",2,"2016-10-02","DEN","Away","TAM","W 27-7","Brandon McManus\McMaBr01",24,"Y","TAM","Not Dome",0.853,2,37.88,0.821
+"714",2,"2016-10-02","BUF","Away","NWE","W 16-0","Dan Carpenter\CarpDa44",47,"N","NWE","Not Dome",0.76,8,36.16,0.84
+"715",2,"2016-10-02","TEN","Away","HOU","L 20-27","Ryan Succop\SuccRy44",26,"Y","HOU","Dome",0.917,7,39.33,0.831
+"716",2,"2016-10-02","SDG","Home","NOR","L 34-35","Josh Lambo\LambJo00",47,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"717",2,"2016-10-02","CLE","Away","WAS","L 20-31","Cody Parkey\ParkCo03",51,"Y","WAS","Not Dome",0.8,2,37.6,0.846
+"718",2,"2016-10-02","ATL","Home","CAR","W 48-33","Matt Bryant\bryanmat01",28,"Y","ATL","Dome",0.919,15,37.3,0.858
+"719",2,"2016-10-02","CHI","Home","DET","W 17-14","Connor Barth\barthco01",50,"N","CHI","Not Dome",0.783,7,35.35,0.84
+"720",2,"2016-10-02","HOU","Home","TEN","W 27-20","Nick Novak\novaknic01",48,"N","HOU","Dome",0.854,9,36.78,0.828
+"721",2,"2016-10-02","BUF","Away","NWE","W 16-0","Dan Carpenter\CarpDa44",34,"Y","NWE","Not Dome",0.76,8,36.16,0.84
+"722",2,"2016-10-02","BAL","Home","OAK","L 27-28","Justin Tucker\TuckJu00",43,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"723",2,"2016-10-02","JAX","Home","IND","W 30-27","Jason Myers\MyerJa00",49,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"724",2,"2016-10-02","DAL","Away","SFO","W 24-17","Dan Bailey\BailDa00",47,"N","SFO","Not Dome",0.844,5,38.41,0.897
+"725",2,"2016-10-02","BUF","Away","NWE","W 16-0","Dan Carpenter\CarpDa44",44,"Y","NWE","Not Dome",0.76,8,36.16,0.84
+"726",2,"2016-10-02","ARI","Home","LAR","L 13-17","Chandler Catanzaro\CataCh00",25,"Y","ARI","Dome",0.75,2,39.07,0.851
+"727",2,"2016-10-02","DET","Away","CHI","L 14-17","Matt Prater\PratMa20",50,"Y","CHI","Not Dome",0.861,10,40.17,0.831
+"728",2,"2016-10-02","SEA","Away","NYJ","W 27-17","Steven Hauschka\HausSt00",33,"Y","NYJ","Not Dome",0.892,9,34.14,0.868
+"729",2,"2016-10-02","IND","Away","JAX","L 27-30","Adam Vinatieri\vinatada01",53,"Y","JAX","Not Dome",0.871,20,43.16,0.842
+"730",2,"2016-10-02","CAR","Away","ATL","L 33-48","Graham Gano\GanoGr44",54,"Y","ATL","Dome",0.789,7,40.61,0.8
+"731",2,"2016-10-02","CLE","Away","WAS","L 20-31","Cody Parkey\ParkCo03",45,"Y","WAS","Not Dome",0.8,2,37.6,0.846
+"732",2,"2016-10-02","SFO","Home","DAL","L 17-24","Phil Dawson\dawsophi01",36,"Y","SFO","Not Dome",0.857,18,40.33,0.844
+"733",2,"2016-10-02","JAX","Home","IND","W 30-27","Jason Myers\MyerJa00",22,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"734",2,"2016-10-02","ATL","Home","CAR","W 48-33","Matt Bryant\bryanmat01",53,"Y","ATL","Dome",0.919,15,37.3,0.858
+"735",2,"2016-10-02","CHI","Home","DET","W 17-14","Connor Barth\barthco01",25,"Y","CHI","Not Dome",0.783,7,35.35,0.84
+"736",2,"2016-10-02","HOU","Home","TEN","W 27-20","Nick Novak\novaknic01",45,"Y","HOU","Dome",0.854,9,36.78,0.828
+"737",2,"2016-10-02","DEN","Away","TAM","W 27-7","Brandon McManus\McMaBr01",38,"Y","TAM","Not Dome",0.853,2,37.88,0.821
+"738",2,"2016-10-02","KAN","Away","PIT","L 14-43","Cairo Santos\SantCa01",49,"N","PIT","Not Dome",0.886,2,35.63,0.843
+"739",2,"2016-10-02","NYJ","Home","SEA","L 17-27","Nick Folk\FolkNi20",34,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"740",2,"2016-10-02","BUF","Away","NWE","W 16-0","Dan Carpenter\CarpDa44",43,"Y","NWE","Not Dome",0.76,8,36.16,0.84
+"741",2,"2016-10-02","WAS","Home","CLE","W 31-20","Dustin Hopkins\HopkDu00",49,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"742",2,"2016-10-02","TEN","Away","HOU","L 20-27","Ryan Succop\SuccRy44",48,"Y","HOU","Dome",0.917,7,39.33,0.831
+"743",2,"2016-10-02","SDG","Home","NOR","L 34-35","Josh Lambo\LambJo00",30,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"744",2,"2016-10-02","DAL","Away","SFO","W 24-17","Dan Bailey\BailDa00",22,"Y","SFO","Not Dome",0.844,5,38.41,0.897
+"745",2,"2016-10-02","ARI","Home","LAR","L 13-17","Chandler Catanzaro\CataCh00",21,"Y","ARI","Dome",0.75,2,39.07,0.851
+"746",2,"2016-10-02","DET","Away","CHI","L 14-17","Matt Prater\PratMa20",21,"Y","CHI","Not Dome",0.861,10,40.17,0.831
+"747",2,"2016-10-02","LAR","Away","ARI","W 17-13","Greg Zuerlein\ZuerGr00",29,"Y","ARI","Dome",0.864,4,38.68,0.799
+"748",2,"2016-10-02","SEA","Away","NYJ","W 27-17","Steven Hauschka\HausSt00",53,"Y","NYJ","Not Dome",0.892,9,34.14,0.868
+"749",2,"2016-10-02","IND","Away","JAX","L 27-30","Adam Vinatieri\vinatada01",49,"Y","JAX","Not Dome",0.871,20,43.16,0.842
+"750",2,"2016-10-02","HOU","Home","TEN","W 27-20","Nick Novak\novaknic01",53,"Y","HOU","Dome",0.854,9,36.78,0.828
+"751",2,"2016-10-02","BAL","Home","OAK","L 27-28","Justin Tucker\TuckJu00",24,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"752",2,"2016-10-02","JAX","Home","IND","W 30-27","Jason Myers\MyerJa00",46,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"753",1,"2016-09-29","CIN","Home","MIA","W 22-7","Mike Nugent\nugenmik01",42,"Y","CIN","Not Dome",0.793,12,35.17,0.808
+"754",1,"2016-09-29","CIN","Home","MIA","W 22-7","Mike Nugent\nugenmik01",22,"Y","CIN","Not Dome",0.793,12,35.17,0.808
+"755",1,"2016-09-29","CIN","Home","MIA","W 22-7","Mike Nugent\nugenmik01",22,"Y","CIN","Not Dome",0.793,12,35.17,0.808
+"756",1,"2016-09-29","CIN","Home","MIA","W 22-7","Mike Nugent\nugenmik01",47,"Y","CIN","Not Dome",0.793,12,35.17,0.808
+"757",1,"2016-09-29","CIN","Home","MIA","W 22-7","Mike Nugent\nugenmik01",43,"Y","CIN","Not Dome",0.793,12,35.17,0.808
+"758",1,"2016-09-26","NOR","Home","ATL","L 32-45","Wil Lutz\LutzWi00",57,"Y","NOR","Dome",0.824,0,37.53,0.842
+"759",1,"2016-09-26","ATL","Away","NOR","W 45-32","Matt Bryant\bryanmat01",21,"Y","NOR","Dome",0.919,15,37.3,0.858
+"760",1,"2016-09-25","SDG","Away","IND","L 22-26","Josh Lambo\LambJo00",34,"Y","IND","Dome",0.813,1,36.38,0.813
+"761",1,"2016-09-25","CLE","Away","MIA","L 24-30","Cody Parkey\ParkCo03",42,"N","MIA","Not Dome",0.8,2,37.6,0.846
+"762",1,"2016-09-25","DAL","Home","CHI","W 31-17","Dan Bailey\BailDa00",47,"N","DAL","Dome",0.844,5,38.41,0.897
+"763",1,"2016-09-25","ARI","Away","BUF","L 18-33","Chandler Catanzaro\CataCh00",60,"Y","BUF","Not Dome",0.75,2,39.07,0.851
+"764",1,"2016-09-25","DET","Away","GNB","L 27-34","Matt Prater\PratMa20",50,"Y","GNB","Not Dome",0.861,10,40.17,0.831
+"765",1,"2016-09-25","SEA","Home","SFO","W 37-18","Steven Hauschka\HausSt00",22,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"766",1,"2016-09-25","WAS","Away","NYG","W 29-27","Dustin Hopkins\HopkDu00",33,"Y","NYG","Not Dome",0.81,2,36.9,0.845
+"767",1,"2016-09-25","IND","Home","SDG","W 26-22","Adam Vinatieri\vinatada01",33,"Y","IND","Dome",0.871,20,43.16,0.842
+"768",1,"2016-09-25","CAR","Home","MIN","L 10-22","Graham Gano\GanoGr44",54,"N","CAR","Not Dome",0.789,7,40.61,0.8
+"769",1,"2016-09-25","SFO","Away","SEA","L 18-37","Phil Dawson\dawsophi01",53,"N","SEA","Not Dome",0.857,18,40.33,0.844
+"770",1,"2016-09-25","BAL","Away","JAX","W 19-17","Justin Tucker\TuckJu00",37,"Y","JAX","Not Dome",0.974,4,41.95,0.899
+"772",1,"2016-09-25","DEN","Away","CIN","W 29-17","Brandon McManus\McMaBr01",20,"Y","CIN","Not Dome",0.853,2,37.88,0.821
+"773",1,"2016-09-25","OAK","Away","TEN","W 17-10","Sebastian Janikowski\janikseb01",52,"Y","TEN","Not Dome",0.829,16,38.54,0.804
+"774",1,"2016-09-25","KAN","Home","NYJ","W 24-3","Cairo Santos\SantCa01",27,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"775",1,"2016-09-25","CLE","Away","MIA","L 24-30","Cody Parkey\ParkCo03",46,"Y","MIA","Not Dome",0.8,2,37.6,0.846
+"776",1,"2016-09-25","NYJ","Away","KAN","L 3-24","Nick Folk\FolkNi20",28,"Y","KAN","Not Dome",0.871,9,33.97,0.813
+"777",1,"2016-09-25","DET","Away","GNB","L 27-34","Matt Prater\PratMa20",42,"Y","GNB","Not Dome",0.861,10,40.17,0.831
+"778",1,"2016-09-25","SEA","Home","SFO","W 37-18","Steven Hauschka\HausSt00",33,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"779",1,"2016-09-25","WAS","Away","NYG","W 29-27","Dustin Hopkins\HopkDu00",37,"Y","NYG","Not Dome",0.81,2,36.9,0.845
+"780",1,"2016-09-25","MIA","Home","CLE","W 30-24","Andrew Franks\FranAn01",37,"Y","MIA","Not Dome",0.762,1,32.86,0.784
+"781",1,"2016-09-25","TEN","Home","OAK","L 10-17","Ryan Succop\SuccRy44",34,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"782",1,"2016-09-25","SDG","Away","IND","L 22-26","Josh Lambo\LambJo00",27,"Y","IND","Dome",0.813,1,36.38,0.813
+"783",1,"2016-09-25","CLE","Away","MIA","L 24-30","Cody Parkey\ParkCo03",38,"Y","MIA","Not Dome",0.8,2,37.6,0.846
+"784",1,"2016-09-25","GNB","Home","DET","W 34-27","Mason Crosby\CrosMa20",36,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"786",1,"2016-09-25","BAL","Away","JAX","W 19-17","Justin Tucker\TuckJu00",43,"Y","JAX","Not Dome",0.974,4,41.95,0.899
+"787",1,"2016-09-25","LAR","Away","TAM","W 37-32","Greg Zuerlein\ZuerGr00",53,"Y","TAM","Not Dome",0.864,4,38.68,0.799
+"788",1,"2016-09-25","WAS","Away","NYG","W 29-27","Dustin Hopkins\HopkDu00",45,"Y","NYG","Not Dome",0.81,2,36.9,0.845
+"789",1,"2016-09-25","BUF","Home","ARI","W 33-18","Dan Carpenter\CarpDa44",19,"Y","BUF","Not Dome",0.76,8,36.16,0.84
+"790",1,"2016-09-25","BAL","Away","JAX","W 19-17","Justin Tucker\TuckJu00",54,"Y","JAX","Not Dome",0.974,4,41.95,0.899
+"791",1,"2016-09-25","PHI","Home","PIT","W 34-3","Caleb Sturgis\SturCa00",29,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"792",1,"2016-09-25","SDG","Away","IND","L 22-26","Josh Lambo\LambJo00",42,"Y","IND","Dome",0.813,1,36.38,0.813
+"793",1,"2016-09-25","CLE","Away","MIA","L 24-30","Cody Parkey\ParkCo03",48,"Y","MIA","Not Dome",0.8,2,37.6,0.846
+"794",1,"2016-09-25","TAM","Home","LAR","L 32-37","Roberto Aguayo\AguaRo00",41,"N","TAM","Not Dome",0.71,0,36.68,0.713
+"795",1,"2016-09-25","DAL","Home","CHI","W 31-17","Dan Bailey\BailDa00",49,"Y","DAL","Dome",0.844,5,38.41,0.897
+"796",1,"2016-09-25","CIN","Home","DEN","L 17-29","Mike Nugent\nugenmik01",34,"Y","CIN","Not Dome",0.793,12,35.17,0.808
+"797",1,"2016-09-25","DET","Away","GNB","L 27-34","Matt Prater\PratMa20",43,"N","GNB","Not Dome",0.861,10,40.17,0.831
+"798",1,"2016-09-25","SEA","Home","SFO","W 37-18","Steven Hauschka\HausSt00",33,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"799",1,"2016-09-25","WAS","Away","NYG","W 29-27","Dustin Hopkins\HopkDu00",49,"Y","NYG","Not Dome",0.81,2,36.9,0.845
+"800",1,"2016-09-25","IND","Home","SDG","W 26-22","Adam Vinatieri\vinatada01",38,"Y","IND","Dome",0.871,20,43.16,0.842
+"801",1,"2016-09-25","CAR","Home","MIN","L 10-22","Graham Gano\GanoGr44",48,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"802",1,"2016-09-25","CLE","Away","MIA","L 24-30","Cody Parkey\ParkCo03",46,"N","MIA","Not Dome",0.8,2,37.6,0.846
+"803",1,"2016-09-25","GNB","Home","DET","W 34-27","Mason Crosby\CrosMa20",46,"Y","GNB","Not Dome",0.867,9,35.4,0.804
+"804",1,"2016-09-25","PIT","Away","PHI","L 3-34","Chris Boswell\BoswCh00",40,"Y","PHI","Not Dome",0.84,1,40.64,0.877
+"805",1,"2016-09-25","SFO","Away","SEA","L 18-37","Phil Dawson\dawsophi01",22,"Y","SEA","Not Dome",0.857,18,40.33,0.844
+"806",1,"2016-09-25","BAL","Away","JAX","W 19-17","Justin Tucker\TuckJu00",42,"Y","JAX","Not Dome",0.974,4,41.95,0.899
+"807",1,"2016-09-25","JAX","Home","BAL","L 17-19","Jason Myers\MyerJa00",49,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"808",1,"2016-09-25","CHI","Away","DAL","L 17-31","Connor Barth\barthco01",34,"Y","DAL","Dome",0.783,7,35.35,0.84
+"809",1,"2016-09-25","CLE","Away","MIA","L 24-30","Cody Parkey\ParkCo03",41,"N","MIA","Not Dome",0.8,2,37.6,0.846
+"810",1,"2016-09-25","BUF","Home","ARI","W 33-18","Dan Carpenter\CarpDa44",45,"Y","BUF","Not Dome",0.76,8,36.16,0.84
+"811",1,"2016-09-25","PHI","Home","PIT","W 34-3","Caleb Sturgis\SturCa00",38,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"812",1,"2016-09-25","WAS","Away","NYG","W 29-27","Dustin Hopkins\HopkDu00",25,"Y","NYG","Not Dome",0.81,2,36.9,0.845
+"813",1,"2016-09-22","NWE","Home","HOU","W 27-0","Stephen Gostkowski\GostSt20",24,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"814",1,"2016-09-22","NWE","Home","HOU","W 27-0","Stephen Gostkowski\GostSt20",25,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"815",1,"2016-09-19","PHI","Away","CHI","W 29-14","Caleb Sturgis\SturCa00",53,"Y","CHI","Not Dome",0.854,3,37.63,0.81
+"816",1,"2016-09-19","CHI","Home","PHI","L 14-29","Connor Barth\barthco01",31,"N","CHI","Not Dome",0.783,7,35.35,0.84
+"817",1,"2016-09-19","PHI","Away","CHI","W 29-14","Caleb Sturgis\SturCa00",25,"Y","CHI","Not Dome",0.854,3,37.63,0.81
+"818",1,"2016-09-19","PHI","Away","CHI","W 29-14","Caleb Sturgis\SturCa00",29,"Y","CHI","Not Dome",0.854,3,37.63,0.81
+"819",1,"2016-09-18","WAS","Home","DAL","L 23-27","Dustin Hopkins\HopkDu00",29,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"820",1,"2016-09-18","IND","Away","DEN","L 20-34","Adam Vinatieri\vinatada01",48,"Y","DEN","Not Dome",0.871,20,43.16,0.842
+"821",1,"2016-09-18","HOU","Home","KAN","W 19-12","Nick Novak\novaknic01",32,"Y","HOU","Dome",0.854,9,36.78,0.828
+"822",1,"2016-09-18","TEN","Away","DET","W 16-15","Ryan Succop\SuccRy44",46,"Y","DET","Dome",0.917,7,39.33,0.831
+"823",1,"2016-09-18","CAR","Home","SFO","W 46-27","Graham Gano\GanoGr44",49,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"824",1,"2016-09-18","PIT","Home","CIN","W 24-16","Chris Boswell\BoswCh00",49,"Y","PIT","Not Dome",0.84,1,40.64,0.877
+"825",1,"2016-09-18","SFO","Away","CAR","L 27-46","Phil Dawson\dawsophi01",29,"Y","CAR","Not Dome",0.857,18,40.33,0.844
+"826",1,"2016-09-18","BAL","Away","CLE","W 25-20","Justin Tucker\TuckJu00",41,"Y","CLE","Not Dome",0.974,4,41.95,0.899
+"827",1,"2016-09-18","LAR","Home","SEA","W 9-3","Greg Zuerlein\ZuerGr00",47,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"828",1,"2016-09-18","ATL","Away","OAK","W 35-28","Matt Bryant\bryanmat01",21,"Y","OAK","Not Dome",0.919,15,37.3,0.858
+"829",1,"2016-09-18","HOU","Home","KAN","W 19-12","Nick Novak\novaknic01",31,"Y","HOU","Dome",0.854,9,36.78,0.828
+"830",1,"2016-09-18","DEN","Home","IND","W 34-20","Brandon McManus\McMaBr01",43,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"831",1,"2016-09-18","KAN","Away","HOU","L 12-19","Cairo Santos\SantCa01",43,"Y","HOU","Dome",0.886,2,35.63,0.843
+"833",1,"2016-09-18","SDG","Home","JAX","W 38-14","Josh Lambo\LambJo00",25,"Y","SDG","Not Dome",0.813,1,36.38,0.813
+"834",1,"2016-09-18","CAR","Home","SFO","W 46-27","Graham Gano\GanoGr44",39,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"835",1,"2016-09-18","TAM","Away","ARI","L 7-40","Roberto Aguayo\AguaRo00",45,"N","ARI","Dome",0.71,0,36.68,0.713
+"836",1,"2016-09-18","DAL","Away","WAS","W 27-23","Dan Bailey\BailDa00",31,"Y","WAS","Not Dome",0.844,5,38.41,0.897
+"837",1,"2016-09-18","CIN","Away","PIT","L 16-24","Mike Nugent\nugenmik01",21,"Y","PIT","Not Dome",0.793,12,35.17,0.808
+"838",1,"2016-09-18","BAL","Away","CLE","W 25-20","Justin Tucker\TuckJu00",52,"Y","CLE","Not Dome",0.974,4,41.95,0.899
+"839",1,"2016-09-18","ARI","Home","TAM","W 40-7","Chandler Catanzaro\CataCh00",22,"Y","ARI","Dome",0.75,2,39.07,0.851
+"840",1,"2016-09-18","LAR","Home","SEA","W 9-3","Greg Zuerlein\ZuerGr00",39,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"841",1,"2016-09-18","WAS","Home","DAL","L 23-27","Dustin Hopkins\HopkDu00",22,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"842",1,"2016-09-18","IND","Away","DEN","L 20-34","Adam Vinatieri\vinatada01",52,"Y","DEN","Not Dome",0.871,20,43.16,0.842
+"843",1,"2016-09-18","HOU","Home","KAN","W 19-12","Nick Novak\novaknic01",24,"Y","HOU","Dome",0.854,9,36.78,0.828
+"844",1,"2016-09-18","DEN","Home","IND","W 34-20","Brandon McManus\McMaBr01",54,"N","DEN","Not Dome",0.853,2,37.88,0.821
+"845",1,"2016-09-18","CAR","Home","SFO","W 46-27","Graham Gano\GanoGr44",41,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"846",1,"2016-09-18","SFO","Away","CAR","L 27-46","Phil Dawson\dawsophi01",39,"Y","CAR","Not Dome",0.857,18,40.33,0.844
+"847",1,"2016-09-18","JAX","Away","SDG","L 14-38","Jason Myers\MyerJa00",54,"N","SDG","Not Dome",0.794,1,42.82,0.824
+"848",1,"2016-09-18","ATL","Away","OAK","W 35-28","Matt Bryant\bryanmat01",20,"Y","OAK","Not Dome",0.919,15,37.3,0.858
+"849",1,"2016-09-18","HOU","Home","KAN","W 19-12","Nick Novak\novaknic01",43,"Y","HOU","Dome",0.854,9,36.78,0.828
+"850",1,"2016-09-18","NWE","Home","MIA","W 31-24","Stephen Gostkowski\GostSt20",34,"Y","NWE","Not Dome",0.844,10,37.16,0.871
+"851",1,"2016-09-18","DEN","Home","IND","W 34-20","Brandon McManus\McMaBr01",33,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"852",1,"2016-09-18","KAN","Away","HOU","L 12-19","Cairo Santos\SantCa01",35,"Y","HOU","Dome",0.886,2,35.63,0.843
+"853",1,"2016-09-18","NOR","Away","NYG","L 13-16","Wil Lutz\LutzWi00",39,"Y","NYG","Not Dome",0.824,0,37.53,0.842
+"854",1,"2016-09-18","CIN","Away","PIT","L 16-24","Mike Nugent\nugenmik01",25,"Y","PIT","Not Dome",0.793,12,35.17,0.808
+"855",1,"2016-09-18","DET","Home","TEN","L 15-16","Matt Prater\PratMa20",42,"Y","DET","Dome",0.861,10,40.17,0.831
+"856",1,"2016-09-18","WAS","Home","DAL","L 23-27","Dustin Hopkins\HopkDu00",36,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"857",1,"2016-09-18","TEN","Away","DET","W 16-15","Ryan Succop\SuccRy44",51,"N","DET","Dome",0.917,7,39.33,0.831
+"858",1,"2016-09-18","CAR","Home","SFO","W 46-27","Graham Gano\GanoGr44",31,"Y","CAR","Not Dome",0.789,7,40.61,0.8
+"859",1,"2016-09-18","BAL","Away","CLE","W 25-20","Justin Tucker\TuckJu00",49,"Y","CLE","Not Dome",0.974,4,41.95,0.899
+"860",1,"2016-09-18","ARI","Home","TAM","W 40-7","Chandler Catanzaro\CataCh00",40,"Y","ARI","Dome",0.75,2,39.07,0.851
+"861",1,"2016-09-18","LAR","Home","SEA","W 9-3","Greg Zuerlein\ZuerGr00",28,"Y","LAR","Not Dome",0.864,4,38.68,0.799
+"862",1,"2016-09-18","HOU","Home","KAN","W 19-12","Nick Novak\novaknic01",57,"N","HOU","Dome",0.854,9,36.78,0.828
+"863",1,"2016-09-18","DEN","Home","IND","W 34-20","Brandon McManus\McMaBr01",23,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"864",1,"2016-09-18","KAN","Away","HOU","L 12-19","Cairo Santos\SantCa01",53,"Y","HOU","Dome",0.886,2,35.63,0.843
+"865",1,"2016-09-18","NWE","Home","MIA","W 31-24","Stephen Gostkowski\GostSt20",39,"N","NWE","Not Dome",0.844,10,37.16,0.871
+"866",1,"2016-09-18","DEN","Home","IND","W 34-20","Brandon McManus\McMaBr01",35,"Y","DEN","Not Dome",0.853,2,37.88,0.821
+"867",1,"2016-09-18","OAK","Home","ATL","L 28-35","Sebastian Janikowski\janikseb01",58,"N","OAK","Not Dome",0.829,16,38.54,0.804
+"868",1,"2016-09-18","KAN","Away","HOU","L 12-19","Cairo Santos\SantCa01",30,"Y","HOU","Dome",0.886,2,35.63,0.843
+"869",1,"2016-09-18","NOR","Away","NYG","L 13-16","Wil Lutz\LutzWi00",45,"Y","NYG","Not Dome",0.824,0,37.53,0.842
+"870",1,"2016-09-18","DAL","Away","WAS","W 27-23","Dan Bailey\BailDa00",22,"Y","WAS","Not Dome",0.844,5,38.41,0.897
+"871",1,"2016-09-18","CIN","Away","PIT","L 16-24","Mike Nugent\nugenmik01",33,"Y","PIT","Not Dome",0.793,12,35.17,0.808
+"872",1,"2016-09-18","DET","Home","TEN","L 15-16","Matt Prater\PratMa20",27,"Y","DET","Dome",0.861,10,40.17,0.831
+"873",1,"2016-09-18","SEA","Away","LAR","L 3-9","Steven Hauschka\HausSt00",23,"Y","LAR","Not Dome",0.892,9,34.14,0.868
+"874",1,"2016-09-18","MIA","Away","NWE","L 24-31","Andrew Franks\FranAn01",27,"Y","NWE","Not Dome",0.762,1,32.86,0.784
+"875",1,"2016-09-15","NYJ","Away","BUF","W 37-31","Nick Folk\FolkNi20",28,"Y","BUF","Not Dome",0.871,9,33.97,0.813
+"876",1,"2016-09-15","BUF","Home","NYJ","L 31-37","Dan Carpenter\CarpDa44",39,"Y","BUF","Not Dome",0.76,8,36.16,0.84
+"877",1,"2016-09-15","NYJ","Away","BUF","W 37-31","Nick Folk\FolkNi20",29,"Y","BUF","Not Dome",0.871,9,33.97,0.813
+"878",1,"2016-09-15","NYJ","Away","BUF","W 37-31","Nick Folk\FolkNi20",36,"Y","BUF","Not Dome",0.871,9,33.97,0.813
+"879",1,"2016-09-12","WAS","Home","PIT","L 16-38","Dustin Hopkins\HopkDu00",34,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"880",1,"2016-09-12","WAS","Home","PIT","L 16-38","Dustin Hopkins\HopkDu00",31,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"881",1,"2016-09-12","PIT","Away","WAS","W 38-16","Chris Boswell\BoswCh00",46,"Y","WAS","Not Dome",0.84,1,40.64,0.877
+"882",1,"2016-09-12","WAS","Home","PIT","L 16-38","Dustin Hopkins\HopkDu00",40,"Y","WAS","Not Dome",0.81,2,36.9,0.845
+"883",1,"2016-09-11","KAN","Home","SDG","W 33-27","Cairo Santos\SantCa01",47,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"884",1,"2016-09-11","GNB","Away","JAX","W 27-23","Mason Crosby\CrosMa20",20,"Y","JAX","Not Dome",0.867,9,35.4,0.804
+"885",1,"2016-09-11","NOR","Home","OAK","L 34-35","Wil Lutz\LutzWi00",50,"N","NOR","Dome",0.824,0,37.53,0.842
+"886",1,"2016-09-11","NYJ","Home","CIN","L 22-23","Nick Folk\FolkNi20",45,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"887",1,"2016-09-11","JAX","Home","GNB","L 23-27","Jason Myers\MyerJa00",50,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"888",1,"2016-09-11","CIN","Away","NYJ","W 23-22","Mike Nugent\nugenmik01",33,"Y","NYJ","Not Dome",0.793,12,35.17,0.808
+"889",1,"2016-09-11","PHI","Home","CLE","W 29-10","Caleb Sturgis\SturCa00",38,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"890",1,"2016-09-11","MIA","Away","SEA","L 10-12","Andrew Franks\FranAn01",41,"Y","SEA","Not Dome",0.762,1,32.86,0.784
+"891",1,"2016-09-11","NWE","Away","ARI","W 23-21","Stephen Gostkowski\GostSt20",32,"Y","ARI","Dome",0.844,10,37.16,0.871
+"892",1,"2016-09-11","OAK","Away","NOR","W 35-34","Sebastian Janikowski\janikseb01",47,"Y","NOR","Dome",0.829,16,38.54,0.804
+"893",1,"2016-09-11","SDG","Away","KAN","L 27-33","Josh Lambo\LambJo00",29,"Y","KAN","Not Dome",0.813,1,36.38,0.813
+"894",1,"2016-09-11","DAL","Home","NYG","L 19-20","Dan Bailey\BailDa00",25,"Y","DAL","Dome",0.844,5,38.41,0.897
+"895",1,"2016-09-11","CIN","Away","NYJ","W 23-22","Mike Nugent\nugenmik01",47,"Y","NYJ","Not Dome",0.793,12,35.17,0.808
+"896",1,"2016-09-11","DET","Away","IND","W 39-35","Matt Prater\PratMa20",43,"Y","IND","Dome",0.861,10,40.17,0.831
+"897",1,"2016-09-11","SEA","Home","MIA","W 12-10","Steven Hauschka\HausSt00",39,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"898",1,"2016-09-11","PHI","Home","CLE","W 29-10","Caleb Sturgis\SturCa00",46,"N","PHI","Not Dome",0.854,3,37.63,0.81
+"899",1,"2016-09-11","IND","Home","DET","L 35-39","Adam Vinatieri\vinatada01",50,"Y","IND","Dome",0.871,20,43.16,0.842
+"900",1,"2016-09-11","HOU","Home","CHI","W 23-14","Nick Novak\novaknic01",28,"Y","HOU","Dome",0.854,9,36.78,0.828
+"901",1,"2016-09-11","TEN","Home","MIN","L 16-25","Ryan Succop\SuccRy44",28,"Y","TEN","Not Dome",0.917,7,39.33,0.831
+"902",1,"2016-09-11","JAX","Home","GNB","L 23-27","Jason Myers\MyerJa00",26,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"903",1,"2016-09-11","ATL","Home","TAM","L 24-31","Matt Bryant\bryanmat01",34,"Y","ATL","Dome",0.919,15,37.3,0.858
+"904",1,"2016-09-11","NWE","Away","ARI","W 23-21","Stephen Gostkowski\GostSt20",47,"Y","ARI","Dome",0.844,10,37.16,0.871
+"905",1,"2016-09-11","KAN","Home","SDG","W 33-27","Cairo Santos\SantCa01",33,"Y","KAN","Not Dome",0.886,2,35.63,0.843
+"906",1,"2016-09-11","NOR","Home","OAK","L 34-35","Wil Lutz\LutzWi00",20,"Y","NOR","Dome",0.824,0,37.53,0.842
+"907",1,"2016-09-11","DAL","Home","NYG","L 19-20","Dan Bailey\BailDa00",23,"Y","DAL","Dome",0.844,5,38.41,0.897
+"908",1,"2016-09-11","NYJ","Home","CIN","L 22-23","Nick Folk\FolkNi20",20,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"909",1,"2016-09-11","CIN","Away","NYJ","W 23-22","Mike Nugent\nugenmik01",21,"Y","NYJ","Not Dome",0.793,12,35.17,0.808
+"911",1,"2016-09-11","OAK","Away","NOR","W 35-34","Sebastian Janikowski\janikseb01",31,"Y","NOR","Dome",0.829,16,38.54,0.804
+"912",1,"2016-09-11","SDG","Away","KAN","L 27-33","Josh Lambo\LambJo00",28,"Y","KAN","Not Dome",0.813,1,36.38,0.813
+"913",1,"2016-09-11","DAL","Home","NYG","L 19-20","Dan Bailey\BailDa00",54,"Y","DAL","Dome",0.844,5,38.41,0.897
+"914",1,"2016-09-11","BAL","Home","BUF","W 13-7","Justin Tucker\TuckJu00",50,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"915",1,"2016-09-11","SEA","Home","MIA","W 12-10","Steven Hauschka\HausSt00",38,"Y","SEA","Not Dome",0.892,9,34.14,0.868
+"916",1,"2016-09-11","PHI","Home","CLE","W 29-10","Caleb Sturgis\SturCa00",22,"Y","PHI","Not Dome",0.854,3,37.63,0.81
+"917",1,"2016-09-11","IND","Home","DET","L 35-39","Adam Vinatieri\vinatada01",40,"Y","IND","Dome",0.871,20,43.16,0.842
+"918",1,"2016-09-11","HOU","Home","CHI","W 23-14","Nick Novak\novaknic01",38,"Y","HOU","Dome",0.854,9,36.78,0.828
+"919",1,"2016-09-11","GNB","Away","JAX","W 27-23","Mason Crosby\CrosMa20",25,"Y","JAX","Not Dome",0.867,9,35.4,0.804
+"920",1,"2016-09-11","NOR","Home","OAK","L 34-35","Wil Lutz\LutzWi00",42,"Y","NOR","Dome",0.824,0,37.53,0.842
+"922",1,"2016-09-11","JAX","Home","GNB","L 23-27","Jason Myers\MyerJa00",39,"Y","JAX","Not Dome",0.794,1,42.82,0.824
+"923",1,"2016-09-11","ATL","Home","TAM","L 24-31","Matt Bryant\bryanmat01",29,"Y","ATL","Dome",0.919,15,37.3,0.858
+"924",1,"2016-09-11","NWE","Away","ARI","W 23-21","Stephen Gostkowski\GostSt20",53,"Y","ARI","Dome",0.844,10,37.16,0.871
+"925",1,"2016-09-11","NOR","Home","OAK","L 34-35","Wil Lutz\LutzWi00",61,"N","NOR","Dome",0.824,0,37.53,0.842
+"926",1,"2016-09-11","DAL","Home","NYG","L 19-20","Dan Bailey\BailDa00",56,"Y","DAL","Dome",0.844,5,38.41,0.897
+"927",1,"2016-09-11","NYJ","Home","CIN","L 22-23","Nick Folk\FolkNi20",23,"Y","NYJ","Not Dome",0.871,9,33.97,0.813
+"928",1,"2016-09-11","BUF","Away","BAL","L 7-13","Dan Carpenter\CarpDa44",49,"N","BAL","Not Dome",0.76,8,36.16,0.84
+"929",1,"2016-09-11","CIN","Away","NYJ","W 23-22","Mike Nugent\nugenmik01",52,"N","NYJ","Not Dome",0.793,12,35.17,0.808
+"930",1,"2016-09-11","HOU","Home","CHI","W 23-14","Nick Novak\novaknic01",28,"Y","HOU","Dome",0.854,9,36.78,0.828
+"931",1,"2016-09-11","SDG","Away","KAN","L 27-33","Josh Lambo\LambJo00",54,"N","KAN","Not Dome",0.813,1,36.38,0.813
+"932",1,"2016-09-11","TAM","Away","ATL","W 31-24","Roberto Aguayo\AguaRo00",43,"Y","ATL","Dome",0.71,0,36.68,0.713
+"933",1,"2016-09-11","BAL","Home","BUF","W 13-7","Justin Tucker\TuckJu00",37,"Y","BAL","Not Dome",0.974,4,41.95,0.899
+"934",1,"2016-09-11","ARI","Home","NWE","L 21-23","Chandler Catanzaro\CataCh00",47,"N","ARI","Dome",0.75,2,39.07,0.851
+"935",1,"2016-09-11","ATL","Home","TAM","L 24-31","Matt Bryant\bryanmat01",34,"Y","ATL","Dome",0.919,15,37.3,0.858
+"936",1,"2016-09-08","CAR","Away","DEN","L 20-21","Graham Gano\GanoGr44",44,"Y","DEN","Not Dome",0.789,7,40.61,0.8
+"937",1,"2016-09-08","CAR","Away","DEN","L 20-21","Graham Gano\GanoGr44",36,"Y","DEN","Not Dome",0.789,7,40.61,0.8
+"938",1,"2016-09-08","CAR","Away","DEN","L 20-21","Graham Gano\GanoGr44",50,"N","DEN","Not Dome",0.789,7,40.61,0.8
